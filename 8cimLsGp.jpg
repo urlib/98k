@@ -1,0 +1,959 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+    <meta name="mobile-agent" content="format=xhtml;url=https://m.zujuan.com/question/detail-13965123.shtml">
+    <script type="text/javascript">    
+        (function(Switch){
+        var switch_pc = window.location.hash;
+        if(switch_pc != "#pc"){
+            if(/iphone|ipod|ipad|Android|nokia|blackberry|webos|webmate|bada|lg|ucweb|skyfire|sony|ericsson|mot|samsung|sgh|lg|philips|panasonic|alcatel|lenovo|cldc|midp|wap|mobile/i.test(navigator.userAgent.toLowerCase())){
+                
+                Switch.location.href='https://m.zujuan.com/question/detail-13965123.shtml';
+                }
+            }
+        })(window);
+    </script>
+
+
+<meta charset="utf-8"/>
+<meta name="renderer" content="webkit"><!--用在360中-->
+<meta name="force-rendering" content="webkit"><!--用在其它-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>    
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<meta name="applicable-device" content="pc">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="lpazPXRKqzrV0d0jkE0uj7mW7k9RGnkAU3wS0lDJVzDC_9dvDA7yA7n8q3TzKEPe-6aKHjsrEUgWNWGYAYI6Qw==">
+<title>如图，甲、乙两名运动员在训练2×100m接力赛跑。己知甲、乙两运动员的起跑过程可看成加速度大小为2m/s2的匀加速运动，且经加速后都能达到并保持vm=8m/的速度跑完全程。已知接力区的长度为L=18m，乙在接力区前端听到口令时起跑，在甲乙相遇时完成交接棒，假设接棒动作不影响运动员的速度大小。
+
+  </title>
+
+<link rel="stylesheet" href="//static.zujuanyi.com/artDialog/css/ui-dialog.css">
+<link rel="stylesheet" href="//static.zujuanyi.com/artDialog/css/artDialog-skin-ot2.css">
+<link rel="stylesheet" href="//static.zujuanyi.com/_local/s/css/zujuanw.min.css?v=d5e4da8992">
+<style>
+    .grecaptcha-badge { display: none; }
+    .JV_list { min-height: 500px; }
+</style>
+
+<script>
+
+    var JST = {}; // js模板集合
+    var Now = '2020-01-08 11:53:52';
+    var User = {"co_partner":null,"xd":"3","chid":"6","q_nianji_id":0,"q_book_id":0,"p_nianji_id":0,"p_book_id":0,"uid":null};
+    var QuesVersionGrade = {};
+    var PaperVersionGrade = {};
+    var Xd_Subjects = {"1":{"2":"语文","3":"数学","4":"英语","5":"科学","9":"政治思品"},"2":{"2":"语文","3":"数学","4":"英语","5":"科学","6":"物理","7":"化学","8":"历史","9":"政治思品","10":"地理","11":"生物","20":"历史与社会","21":"社会思品"},"3":{"2":"语文","3":"数学","4":"英语","6":"物理","7":"化学","8":"历史","9":"政治思品","10":"地理","11":"生物","14":"信息技术","15":"通用技术"}};
+    var Chid_Subjects = {"2":"语文","3":"数学","4":"英语","5":"科学","6":"物理","7":"化学","8":"历史","9":"政治思品","10":"地理","11":"生物","14":"信息技术","15":"通用技术","16":"劳技","19":"基本能力","20":"历史与社会","21":"社会思品"};
+    var Xds = {"1":"小学","2":"初中","3":"高中"};
+    var Application = {
+        AppName: 'zujuanw',
+        DEF_XD: '3',
+        DEF_CHID: '6',
+        debounceTime: 400
+    };
+    
+    var HtmText = {"report":"纠错"};
+    var CDN_STATIC_DOMAIN = 'static.zujuanyi.com';
+    var CDN_LOCAL_DOMAIN = '//static.zujuanyi.com/_local';
+    
+
+    var mURL = function(url, args) {
+        if (url == '/paper/view/') {
+            if (Application.AppName == 'zujuanw') {
+                return '/paper/view-'+args+'.shtml';
+            }
+            return '/paper/view/'+args;
+        }
+        if (url == '/question/detail/') {
+            if (Application.AppName == 'zujuanw') {
+                return '/question/detail-'+args+'.shtml';
+            }
+            return '/question/detail/'+args;
+        }
+        if (url == '/subject/detail/') {
+                if (Application.AppName == 'zujuanw') {
+                    return 'subject/detail?id=' + args;
+                }
+                return 'subject/detail/'+args;
+            }
+        return url;
+    };
+    Application.dataState = {
+        hostInfo: "https://www.zujuan.com",
+        csrf: {"_csrf": "lpazPXRKqzrV0d0jkE0uj7mW7k9RGnkAU3wS0lDJVzDC_9dvDA7yA7n8q3TzKEPe-6aKHjsrEUgWNWGYAYI6Qw=="} 
+    };  
+    var console = console || {};
+    console.log = console.log || function() { document.title = '组卷网-在线组卷网,学科组卷平台' }
+    if (! Array.prototype.indexOf) {    
+        Array.prototype.indexOf = function(val) {    
+            var value = this;    
+            for(var i = 0; i < value.length; i++) {    
+                if (value[i] == val) return i;    
+            }    
+            return -1;    
+        };    
+    }  
+
+</script></head>
+<body>
+    <!--[if lt IE 9]>
+    <link href="//static.zujuanyi.com/kill-ie/kill-ie.css" rel="stylesheet" type="text/css">
+    <script src="//static.zujuanyi.com/kill-ie/kill-ie.js"></script>
+<![endif]-->
+    <div class="HeaderView">
+<div class="top-inner-head">
+    <div class="g-cw top-head-bd cfx">
+        <div class="fl inner-logo">
+            <a href="/"><img src="//static.zujuanyi.com/_local/s/images/zujuanw/logo_zujuan_w.png"></a>
+        </div>
+        <div class="w fl J_top_search_form">
+            <div class="searchbox-bd">
+    <form class="search-form" action="/question/search" method="GET"
+        target="_blank" 
+    >
+        <input type="hidden" name="xd" value="3">
+        <input type="hidden" name="chid" value="6">
+        <div class="search-wrap cfx">
+            <div class="new-search-type">
+                <span class="search-select">
+                    <em class="searc-txt">试题</em>
+                    <i class="iconw-search-down"></i>
+                </span>
+                <ul class="new-search-list">
+                    <li>
+                        <input type="radio" name="type" value="paper"  style="display: none;">
+                        <span>试卷</span>
+                    </li>
+                    <li>
+                        <input type="radio" name="type" value="question" checked style="display: none;">
+                        <span>试题</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="search">
+                <input type="text" name="content" class="search-inputtxt" value="" placeholder="请输入搜索关键词">
+                <span class="btn-search">         
+                    <button type="submit" id="J_submit"><i class="iconw-search"></i></button>
+                </span>
+            </div>
+        </div>
+    </form>
+</div>        </div>
+        <ul class="top-nav-cn fr">
+            <li class="p-20">
+                <a href="/" class="menu-tit">首页 </a>
+            </li>
+            <li class="sep"></li>
+            <li class="p-20">
+                
+                <a href="javascript:;" onclick="Application.popupLogin()" class="menu-tit">激活码</a>
+                
+            </li>
+            <li class="sep"></li>
+            <li class="p-20">
+                <a href="/payment/vip-intro" class="menu-tit">购买VIP </a>
+            </li>
+            <li class="sep"></li>
+            <li class="p-20">
+                
+                <a href="javascript:;" onclick="Application.popupLogin()" class="menu-tit">团体VIP </a>
+                
+            </li>
+            <li class="sep"></li>
+            <li class="p-20">
+                <a href="/help/article?id=55" class="menu-tit">帮助中心 </a>
+            </li>
+            <!--登录前-->
+            
+            <li class="login-item">
+                <a href="//passport.zujuan.com/login?jump_url=http://www.zujuan.com/" class="top-login-item">登录</a>
+                <a href="//passport.zujuan.com/register?jump_url=http://www.zujuan.com" class="top-register-item">注册</a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+</div>
+
+    <div class="crumbs g-cw">
+        <i class="iconw-fixed"></i>
+        <span>当前位置：</span>
+        <a href="javascript:;">答案解析</a>
+        <span>&gt;</span>
+        <a href="/question?xd=3&chid=6" class="pointer">高中物理</a>
+        <span>&gt;</span>
+        <a href="javascript:;">综合题</a>
+    </div>
+
+    <div class="m-wrap g-cw cfx">
+        <div class="w fl">
+            <div class="g-mn2">
+                <ul id="J_question_detail"
+                    
+                >
+                    <li>
+                        
+                        
+                        <div class="question-block">
+                            <div class="q-mc">
+                                <div class="q-tit">1. 如图，甲、乙两名运动员在训练2×100m接力赛跑。己知甲、乙两运动员的起跑过程可看成加速度大小为2m/s<sup>2</sup>的匀加速运动，且经加速后都能达到并保持v<sub>m</sub>=8m/的速度跑完全程。已知接力区的长度为L=18m，乙在接力区前端听到口令时起跑，在甲乙相遇时完成交接棒，假设接棒动作不影响运动员的速度大小。
+
+<p align="left"> <img width="334" height="148" src="//tikupic.21cnjy.com/fa/d5/fad5eeda5ef25f4ba81f6cfe3c57030c.png" v:shapes="图片_x0020_272226802"> </p>
+
+</div>
+
+                                
+                                    <ol class="q-bd-list">
+                                        
+                                            
+                                            <li>
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">（1）在某次练习中，甲以v<sub>m</sub>=8m/s的速度跑到接力区前端s<sub>0</sub>=12m处时，向乙发出起跑口令，求此次练习中交接棒处离接力区前端的距离；
+
+</div>
+
+                                                        
+
+
+
+                                                    </div>
+                                                </div>
+                                            <li>
+                                        
+                                            
+                                            <li>
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">（2）为了取得最好成绩，需要乙恰好在速度达到与甲相同时被甲追上，则甲应在距离接力区前端多远时对乙发出起跑口令？他们跑完2×l00m全程的最好成绩（从甲起跑开始，至乙到达终点的总时间）是多少？
+
+</div>
+
+                                                        
+
+
+
+                                                    </div>
+                                                </div>
+                                            <li>
+                                        
+                                            
+                                            <li>
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">（3）若接力区的长度只有L′=9m，则他们的最好成绩又是多少？甲应在距离接力区前端多远是对已发出起跑口令？
+
+</div>
+
+                                                        
+
+
+
+                                                    </div>
+                                                </div>
+                                            <li>
+                                        
+                                    </ol>
+                                
+                                
+
+
+
+                            </div>
+                        </div>
+                        
+                    </li>
+                </ul>
+                <div class="connect-ques f-usn" onselectstart="return false" onselect="return false" oncontextmenu="return false" ondragstart="return false">
+                    <div class="connect-ques--hd"><span>举一反三</span><a class="J_ConnectReload" href="javascript:;"><i class="iconw-reload--normal"></i>换一批</a></div>
+                    <div class="connect-ques--list">
+                        <div class="loading-wrap">
+                            <div class="loading-bg"></div>
+                            <div class="loading"></div>
+                        </div>
+                        <div class="J_ConnectQues do-q-bd preview-bd">
+                            <ul class="do-q-mc">
+                                
+                                    
+                                    <li class="QuestionView">
+                                        <div class="question-block">
+                                            <div class="q-mc">
+                                                <div class="q-tit">1. 物体从A向B做匀减速直线运动，通过A点时速度为10m/s,通过B点时速度为4m/s，C点为AB的中点，AB的距离为14m，则（&nbsp;&nbsp;）<br></p>
+
+</div>
+
+                                                
+                                                
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">物体的加速度大小为<img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmn%3E6%3C%2Fmn%3E%3Cmi%3Em%3C%2Fmi%3E%3Cmo%3E%2F%3C%2Fmo%3E%3Cmsup%3E%3Cmi%3Es%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsup%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"></span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">AB段的平均速度大小为14 m/s</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">物体从A到B所用的时间为4s</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">物体通过C点的瞬时速度为<img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmsqrt%3E%3Cmn%3E58%3C%2Fmn%3E%3C%2Fmsqrt%3E%3Cmi%3Em%3C%2Fmi%3E%3Cmo%3E%2F%3C%2Fmo%3E%3Cmi%3Es%3C%2Fmi%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"></span></span>
+    
+</div>
+
+
+
+
+                                            </div>
+                                            <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-1021702.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(1021702)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                        </div>
+                                    </li>
+                                
+                                    
+                                    <li class="QuestionView">
+                                        <div class="question-block">
+                                            <div class="q-mc">
+                                                <div class="q-tit">2. 物体从斜面顶端由静止开始下滑，经过斜面中点时速度为2m/s，则物体到达斜面底端时的速度为（&nbsp; ）</p>
+
+</div>
+
+                                                
+                                                
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">3m/s</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">4m/s</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">6m/s</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">2 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsqrt%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsqrt%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> m/s</span></span>
+    
+</div>
+
+
+
+
+                                            </div>
+                                            <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-3013653.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(3013653)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                        </div>
+                                    </li>
+                                
+                                    
+                                    <li class="QuestionView">
+                                        <div class="question-block">
+                                            <div class="q-mc">
+                                                <div class="q-tit">3. 如图，足够长的斜面倾角θ=30°，一个物体以12m/s的初速度从面上点处沿斜面向上运动，加速度大小为a=8.0m/s<sup>2</sup> （g=10m/s<sup>2</sup>），求：</p>
+
+</div>
+
+                                                
+                                                    <ol class="q-bd-list">
+                                                        
+                                                            
+                                                            <li>
+                                                                <div class="question-block">
+                                                                    <div class="q-mc">
+                                                                            <div class="q-tit">（1）物体沿斜面上滑的最大距离．</p>
+
+</div>
+
+                                                                            
+
+
+
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        
+                                                            
+                                                            <li>
+                                                                <div class="question-block">
+                                                                    <div class="q-mc">
+                                                                            <div class="q-tit">（2）物体从A点出发经多少时间才能返回到A点？</p><p><img data-cke-saved-src="//tikupic.21cnjy.com/ed/fb/edfb76fbf7d3ca8c803ef8a9bd97e9da.png" src="//tikupic.21cnjy.com/ed/fb/edfb76fbf7d3ca8c803ef8a9bd97e9da.png" alt="" v:shapes="_x0000_i1075" width="189" height="109"></p>
+
+</div>
+
+                                                                            
+
+
+
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        
+                                                    </ol>
+                                                
+                                                
+
+
+
+                                            </div>
+                                            <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-3379301.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(3379301)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                        </div>
+                                    </li>
+                                
+                                    
+                                    <li class="QuestionView">
+                                        <div class="question-block">
+                                            <div class="q-mc">
+                                                <div class="q-tit">4. 汽车初速度v<sub>0</sub>=20m/s，刹车后做匀减速直线运动，加速度大小为a=5m/s<sup>2</sup>  ， 求：</p>
+
+</div>
+
+                                                
+                                                    <ol class="q-bd-list">
+                                                        
+                                                            
+                                                            <li>
+                                                                <div class="question-block">
+                                                                    <div class="q-mc">
+                                                                            <div class="q-tit">（1）开始刹车后2s内汽车的位移；</p>
+
+</div>
+
+                                                                            
+
+
+
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        
+                                                            
+                                                            <li>
+                                                                <div class="question-block">
+                                                                    <div class="q-mc">
+                                                                            <div class="q-tit">（2）开始刹车后5s内汽车的位移．</p>
+
+</div>
+
+                                                                            
+
+
+
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        
+                                                    </ol>
+                                                
+                                                
+
+
+
+                                            </div>
+                                            <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-3391505.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(3391505)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                        </div>
+                                    </li>
+                                
+                                    
+                                    <li class="QuestionView">
+                                        <div class="question-block">
+                                            <div class="q-mc">
+                                                <div class="q-tit">5. 甲、乙两车在t=0时从同一地点、向同一方向沿直线运动，甲以5m/s的速度匀速行驶，乙以10m/s的初速度、加速度大小为0.5m/s<sup>2</sup>的刹车减速运动，求：</p>
+
+</div>
+
+                                                
+                                                    <ol class="q-bd-list">
+                                                        
+                                                            
+                                                            <li>
+                                                                <div class="question-block">
+                                                                    <div class="q-mc">
+                                                                            <div class="q-tit">（1）经多长时间甲车追上乙车？</p>
+
+</div>
+
+                                                                            
+
+
+
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        
+                                                            
+                                                            <li>
+                                                                <div class="question-block">
+                                                                    <div class="q-mc">
+                                                                            <div class="q-tit">（2）追上前两者之间的最大距离；</p>
+
+</div>
+
+                                                                            
+
+
+
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        
+                                                            
+                                                            <li>
+                                                                <div class="question-block">
+                                                                    <div class="q-mc">
+                                                                            <div class="q-tit">（3）在t=25s时，两者之间的距离．</p>
+
+</div>
+
+                                                                            
+
+
+
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        
+                                                    </ol>
+                                                
+                                                
+
+
+
+                                            </div>
+                                            <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-5236675.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(5236675)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                        </div>
+                                    </li>
+                                
+                                    
+                                    <li class="QuestionView">
+                                        <div class="question-block">
+                                            <div class="q-mc">
+                                                <div class="q-tit">6. 如图所示，在光滑的水平地面上，相距L＝10 m的A、B两小球均以v0＝10 m/s向右运动，随后两球相继滑上倾角为30°的足够长的光滑斜坡，地面与斜坡平滑连接，取g＝10
+m/s<sup>2</sup>。求：
+
+<p align="left"> <img width="162" height="65" src="//tikupic.21cnjy.com/2b/17/2b171d8f3dd505e9c216eab445728b4d.jpg" alt="图片_x0020_1541004453"> </p>
+
+</div>
+
+                                                
+                                                    <ol class="q-bd-list">
+                                                        
+                                                            
+                                                            <li>
+                                                                <div class="question-block">
+                                                                    <div class="q-mc">
+                                                                            <div class="q-tit">（1）B球刚要滑上斜坡时A、B两球的距离；
+
+</div>
+
+                                                                            
+
+
+
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        
+                                                            
+                                                            <li>
+                                                                <div class="question-block">
+                                                                    <div class="q-mc">
+                                                                            <div class="q-tit">（2）A球滑上斜坡后经过多长时间两球相遇。
+
+</div>
+
+                                                                            
+
+
+
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        
+                                                    </ol>
+                                                
+                                                
+
+
+
+                                            </div>
+                                            <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-13365190.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(13365190)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                        </div>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="g-sd2">
+            <!--相关试卷-->
+<div class="analyize-extend JV_question__papers">
+
+<h3 class="extend-mt">相关试卷</h3>
+<ul class="extend-mc">
+    
+    <li>
+        <a href="/paper/view-2353793.shtml" target="_blank" title="陕西省西安中学2019-2020学年高二上学期物理期中试卷" class="ex-tit">
+            <b></b><span>陕西省西安中学2019-2020学年高二上学期物理期中试卷</span>
+        </a>
+    </li>
+    
+    <li>
+        <a href="/paper/view-2353587.shtml" target="_blank" title="广西壮族自治区田阳高中2019-2020学年高一上学期物理期中考试试卷" class="ex-tit">
+            <b></b><span>广西壮族自治区田阳高中2019-2020学年高一上学期物理期中考试试卷</span>
+        </a>
+    </li>
+    
+    <li>
+        <a href="/paper/view-2353585.shtml" target="_blank" title="广西壮族自治区田阳高中2019-2020学年高二上学期物理期中考试试卷" class="ex-tit">
+            <b></b><span>广西壮族自治区田阳高中2019-2020学年高二上学期物理期中考试试卷</span>
+        </a>
+    </li>
+    
+    <li>
+        <a href="/paper/view-2353579.shtml" target="_blank" title="广西省柳州市柳江中学2019-2020学年高二上学期物理期中检测试卷" class="ex-tit">
+            <b></b><span>广西省柳州市柳江中学2019-2020学年高二上学期物理期中检测试卷</span>
+        </a>
+    </li>
+    
+    <li>
+        <a href="/paper/view-2353571.shtml" target="_blank" title="广西桂林市逸仙中学2019-2020学年高二上学期理科物理期中考试试卷" class="ex-tit">
+            <b></b><span>广西桂林市逸仙中学2019-2020学年高二上学期理科物理期中考试试卷</span>
+        </a>
+    </li>
+    
+</ul>
+
+</div>
+<!--大专题推荐-->
+<div class="JV_question__subject">
+<ul class="subjects-recomm">
+    
+    <li>
+        <a href="/merge?id=94" target="_blank">
+            <img src="https://tikupic.21cnjy.com/f6/ee/f6ee40eea6a84ff2ab69c0f90915c659.png">
+        </a>
+    </li>
+    
+    <li>
+        <a href="/merge?id=96" target="_blank">
+            <img src="https://tikupic.21cnjy.com/aa/af/aaafdc39fa87ea824fbf45a9e27038ab.png">
+        </a>
+    </li>
+    
+    <li>
+        <a href="/merge?id=90" target="_blank">
+            <img src="https://tikupic.21cnjy.com/e0/dd/e0ddf9055f51729af1e5faceb18c139c.png">
+        </a>
+    </li>
+    
+</ul>
+</div>
+
+        </div>
+    </div>
+    
+
+    <div class="inner-footer">
+            <div class="g-cw">
+                <div class="footer-adress">
+                    <P>2006-2020 深圳市思高达科技有限公司 <a>粤ICP备14099982号 </a> </P>
+                </div>
+            </div>
+        </div>
+
+    <div class="BasketView"></div>
+    <script src="https://www.recaptcha.net/recaptcha/api.js?render=6Le4laMUAAAAANmlTcZmNCMlqWBoGkaRnIelSH8T"></script>
+<script src="https://cdn.bootcss.com/jquery/1.12.0/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/jquery-validate/1.15.1/jquery.validate.min.js"></script>
+<script src="//static.zujuanyi.com/json2/json2.js"></script>
+<script src="https://cdn.bootcss.com/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://cdn.bootcss.com/backbone.js/1.3.3/backbone-min.js"></script>
+<script src="//static.zujuanyi.com/backbone-query-parameters/backbone.queryparams.min.js"></script>
+<script src="//static.zujuanyi.com/artDialog/dist/dialog-plus.js"></script>
+<script>
+    $(document).ajaxError(function(t,i,n){if(401==i.status&&i.responseText)if(dialog){var o=dialog({id:"_dialog_ajax_verify_intercept",content:i.responseText,title:"安全验证"});window._ajax_verify_success_callback=function(){o.remove(),$.ajax(n)},o.showModal()}else alert("无权限操作，请联系管理员！")});
+</script>
+<script src="https://cdn.bootcss.com/moment.js/2.18.1/moment.js"></script>
+<script src="https://cdn.bootcss.com/moment.js/2.18.1/locale/zh-cn.js"></script>
+<script src="https://cdn.bootcss.com/highcharts/4.2.6/highcharts.js"></script>
+<script src="//static.zujuanyi.com/js/raphael.min.js"></script>
+<script src="//static.zujuanyi.com/js/jquery.md5.js"></script>
+<script src="https://cdn.bootcss.com/jquery.serializeJSON/2.3.1/jquery.serializejson.js"></script>
+<script src="https://cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//static.zujuanyi.com/superslide/jquery.SuperSlide.2.1.1.js"></script>
+<script src="//static.zujuanyi.com/_local/lib/ckeditor2/ckeditor.js"></script>
+<script src="//static.zujuanyi.com/_local/lib/texzilla.js"></script>
+<script src="//static.zujuanyi.com/_local/lib/jquery-ui-1.9.2.custom/js/jquery-ui-1.9.2.custom.min.js"></script>
+<script> CKEDITOR.config.customConfig = 'config-custom.js'; </script>
+<script src="//static.zujuanyi.com/_local/s/js/jst-zujuanw.min.js?v=f896cac2d3"></script>
+<script src="//static.zujuanyi.com/_local/s/js/app.min.js?v=2be576fd15"></script>
+<script src="//static.zujuanyi.com/_local/s/js/common.min.js?v=de34137c5e"></script>
+<script src="//static.zujuanyi.com/_local/s/js/module.min.js?v=dddece2179"></script>
+
+
+
+<link rel="stylesheet" href="//static.zujuanyi.com/video6.6.2.js/css/video-js.min.css"/>
+<link rel="stylesheet" href="//static.zujuanyi.com/_local/s/css/video-help.min.css?v=40f50771ff">
+<div class="video_shade"></div>
+<div class="videos zujuanw" style="display:none;">
+    <div class="title_top">
+        手动组卷
+    </div>
+    <div class="m-video">
+        <div class="m-video-play">
+            <video id="example_video_1" class="video-js vjs-default-skin vjs-big-play-centered"
+                controls preload="auto" width="700" height="400"
+                poster="">
+            </video>
+        </div>
+        <div class="video_rs">
+            <div class="video_rs_t">
+                <span>操作演示</span>
+                <a href="javascript:;" class="btnadd">X</a>
+            </div>
+            <div class="video_rs_b">
+                <div class="one_tb hover_on" vid_src="http://static.zujuanyi.com/video/zujuan/helper/zujuan.mp4">
+                    <span class="one_tb_l">1</span>
+                    <div class="one_tb_r" title="手动组卷">
+                        <h3>手动组卷</h3>
+                        <p>组卷正确操作演示</p>
+                    </div>
+
+                </div>
+                <div class="one_tb" vid_src="http://static.zujuanyi.com/video/zujuan/helper/smarter.mp4">
+                    <span class="one_tb_l">2</span>
+                    <div class="one_tb_r" title="智能组卷">
+                        <h3>智能组卷</h3>
+                        <p>组卷正确操作演示</p>
+                    </div>
+
+                </div>
+                <div class="one_tb" vid_src="http://static.zujuanyi.com/video/zujuan/helper/edit.mp4">
+                    <span class="one_tb_l">3</span>
+                    <div class="one_tb_r" title="试卷编辑">
+                        <h3>试卷编辑</h3>
+                        <p>编辑页面的操作和功能介绍</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="//static.zujuanyi.com/video6.6.2.js/js/video.min.js"></script>
+
+<script type="text/javascript">
+    var myPlayer = videojs('example_video_1');
+    $("body").on('click','.video-play',function(){
+        $('.videos').show();
+        $('.video_shade').show();
+        var source = [{
+            type:"video/mp4",
+            src:"http://static.zujuanyi.com/video/zujuan/helper/zujuan.mp4"
+        }]
+        myPlayer.ready(function(){
+            var obj  = this;
+            obj.src(source);
+            obj.load();
+        })
+    });
+    $(".one_tb").click(function() {
+        $(this).addClass("hover_on").siblings(".one_tb").removeClass("hover_on");
+        var videoUrl = $(this).attr("vid_src");
+        var hName=$(this).find("h3").html();
+        $(".title_top").html(hName);
+        videojs("example_video_1", {}, function() {
+            window.myPlayer = this;
+            $("#example_video_1 source").attr("src", videoUrl);
+            myPlayer.src(videoUrl);
+            myPlayer.load(videoUrl);
+            myPlayer.play();
+        });
+        $(".click-modal").click();
+    });
+    $(".btnadd").click(function(){
+        $('.videos').hide();
+        $('.video_shade').hide();
+        myPlayer.pause();
+    });
+</script>
+
+
+
+<!-- 53kf and 统计代码 -->
+<script>
+    window.onload = function(){
+        // 点击咨询按钮
+        $('.kf53').click(function(){
+            var api = $53.createApi();
+            if($("#div_company_mini").css('display')=='block'){
+                if($("#iframe_company_mini_div").css('display')=='block'){
+                    // api.push('cmd', 'kfclient');
+                    // api.push('type', 'new');
+                    // api.query();
+                }else{
+                    api.push('cmd', 'kfclient');
+                    api.push('type', 'popup');
+                    api.query();
+                }
+                
+            }else{
+                api.push('cmd', 'kfclient');
+                api.push('type', 'popup');
+                api.query();
+                document.cookie="kf_consult=true";
+            }
+        })
+    };
+    (function() {
+        var _53code = document.createElement("script");
+        _53code.src ="https://tb.53kf.com/code/code/d7143bc22f6f6585f48d5267a8a69ca9/1";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(_53code, s);
+    })();
+
+    //统计代码
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?6de0a5b2c05e49d1c850edca0c13051f";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+    })();
+    //推送代码
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<script src="//static.zujuanyi.com/_local/s/js/checkIE.js"></script>
+
+
+
+    <script>
+    Application.bootstrap(function() {
+        return new Application.QuestionDetailView({
+            id: '13965123',
+            related_questions: [{"question_id":"1021702","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"物体从A向B做匀减速直线运动，通过A点时速度为10m/s,通过B点时速度为4m/s，C点为AB的中点，AB的距离为14m，则（ ）","question_text":"物体从A向B做匀减速直线运动，通过A点时速度为10m/s,通过B点时速度为4m/s，C点为AB的中点，AB的距离为14m，则（&nbsp;&nbsp;）<br></p>","options":{"A":"物体的加速度大小为<img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmn%3E6%3C%2Fmn%3E%3Cmi%3Em%3C%2Fmi%3E%3Cmo%3E%2F%3C%2Fmo%3E%3Cmsup%3E%3Cmi%3Es%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsup%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\">","B":"AB段的平均速度大小为14 m/s","C":"物体从A到B所用的时间为4s","D":"物体通过C点的瞬时速度为<img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmsqrt%3E%3Cmn%3E58%3C%2Fmn%3E%3C%2Fmsqrt%3E%3Cmi%3Em%3C%2Fmi%3E%3Cmo%3E%2F%3C%2Fmo%3E%3Cmi%3Es%3C%2Fmi%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\">"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"0","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"5","new_flag":false,"is_use":0,"question_source":null,"list":null,"_n":0},{"question_id":"3013653","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"物体从斜面顶端由静止开始下滑，经过斜面中点时速度为2m/s，则物体到达斜面底端时的速度为（ ）","question_text":"物体从斜面顶端由静止开始下滑，经过斜面中点时速度为2m/s，则物体到达斜面底端时的速度为（&nbsp; ）</p>","options":{"A":"3m/s","B":"4m/s","C":"6m/s","D":"2 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsqrt%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsqrt%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> m/s"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"84051","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"10","new_flag":false,"is_use":0,"question_source":"2016-2017学年吉林省延边州汪清六中高一上学期期中物理试卷","list":null,"_n":1},{"question_id":"3379301","question_type":"7","question_channel_type":"28","channel_type_name":"综合题","title":"如图，足够长的斜面倾角θ=30°，一个物体以12m/s的初速度从面上点处沿斜面向上运动，加速度大小为a=8.0m/s<sup>2</sup> （g=10m/s<sup>2</sup>），求：","question_text":"如图，足够长的斜面倾角θ=30°，一个物体以12m/s的初速度从面上点处沿斜面向上运动，加速度大小为a=8.0m/s<sup>2</sup> （g=10m/s<sup>2</sup>），求：</p>","options":"{\"A\":\"\"}","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"121178","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"8","new_flag":false,"is_use":0,"question_source":"2015-2016学年浙江省金华市东阳中学高二下学期期中物理试卷","list":[{"question_id":"3455467","question_type":"5","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"物体沿斜面上滑的最大距离．</p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"3379301","paperid":null,"xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":0},{"question_id":"3455468","question_type":"5","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"物体从A点出发经多少时间才能返回到A点？</p><p><img data-cke-saved-src=\"http://tikupic.21cnjy.com/ed/fb/edfb76fbf7d3ca8c803ef8a9bd97e9da.png\" src=\"http://tikupic.21cnjy.com/ed/fb/edfb76fbf7d3ca8c803ef8a9bd97e9da.png\" alt=\"\" v:shapes=\"_x0000_i1075\" width=\"189\" height=\"109\"></p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"3379301","paperid":null,"xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":1}],"_n":2},{"question_id":"3391505","question_type":"7","question_channel_type":"28","channel_type_name":"综合题","title":"汽车初速度v<sub>0</sub>=20m/s，刹车后做匀减速直线运动，加速度大小为a=5m/s<sup>2</sup>，求：","question_text":"汽车初速度v<sub>0</sub>=20m/s，刹车后做匀减速直线运动，加速度大小为a=5m/s<sup>2</sup>  ， 求：</p>","options":"{\"A\":\"\"}","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"123586","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"7","new_flag":false,"is_use":0,"question_source":false,"list":[{"question_id":"3501235","question_type":"5","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"开始刹车后2s内汽车的位移；</p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"3391505","paperid":null,"xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":0},{"question_id":"3501236","question_type":"5","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"开始刹车后5s内汽车的位移．</p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"3391505","paperid":null,"xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":1}],"_n":3},{"question_id":"5236675","question_type":"7","question_channel_type":"28","channel_type_name":"综合题","title":"甲、乙两车在t=0时从同一地点、向同一方向沿直线运动，甲以5m/s的速度匀速行驶，乙以10m/s的初速度、加速度大小为0.5m/s&lt;sup&gt;2&lt;/sup&gt;的刹车...","question_text":"甲、乙两车在t=0时从同一地点、向同一方向沿直线运动，甲以5m/s的速度匀速行驶，乙以10m/s的初速度、加速度大小为0.5m/s<sup>2</sup>的刹车减速运动，求：</p>","options":"[]","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"296679","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"5","difficult_name":"困难","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"41","new_flag":false,"is_use":0,"question_source":"广东省汕头市金山中学2016-2017学年高一上学期物理期中考试试卷","list":[{"question_id":"5269753","question_type":"5","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"经多长时间甲车追上乙车？</p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"5236675","paperid":null,"xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"5","difficult_name":"困难","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":0},{"question_id":"5269755","question_type":"5","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"追上前两者之间的最大距离；</p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"5236675","paperid":null,"xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"5","difficult_name":"困难","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":1},{"question_id":"5269757","question_type":"5","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"在t=25s时，两者之间的距离．</p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"5236675","paperid":null,"xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"5","difficult_name":"困难","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":2}],"_n":4},{"question_id":"13365190","question_type":"7","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"如图所示，在光滑的水平地面上，相距L＝10 m的A、B两小球均以v0＝10 m/s向右运动，随后两球相继滑上倾角为30°的足够长的光滑斜坡，地面与斜坡平滑连接，取g＝10\nm/s<sup>2</sup>。求：\n\n<p align=\"left\"> <img width=\"162\" height=\"65\" src=\"https://tikupic.21cnjy.com/2b/17/2b171d8f3dd505e9c216eab445728b4d.jpg\" alt=\"图片_x0020_1541004453\"> </p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"1963914","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"2","difficult_name":"较易","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"4","new_flag":false,"is_use":0,"question_source":false,"list":[{"question_id":"16042785","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"B球刚要滑上斜坡时A、B两球的距离；","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"13365190","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":0},{"question_id":"16042787","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"A球滑上斜坡后经过多长时间两球相遇。","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"13365190","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":1}],"_n":5}], // 举一反三
+            question: {"question_id":"13965123","question_type":"7","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"如图，甲、乙两名运动员在训练2×100m接力赛跑。己知甲、乙两运动员的起跑过程可看成加速度大小为2m/s<sup>2</sup>的匀加速运动，且经加速后都能达到并保持v<sub>m</sub>=8m/的速度跑完全程。已知接力区的长度为L=18m，乙在接力区前端听到口令时起跑，在甲乙相遇时完成交接棒，假设接棒动作不影响运动员的速度大小。\n\n<p align=\"left\"> <img width=\"334\" height=\"148\" src=\"https://tikupic.21cnjy.com/fa/d5/fad5eeda5ef25f4ba81f6cfe3c57030c.png\" v:shapes=\"图片_x0020_272226802\"> </p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2073794","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"2","difficult_name":"较易","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"1","new_flag":false,"is_use":0,"question_source":false,"list":[{"question_id":"16295607","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"在某次练习中，甲以v<sub>m</sub>=8m/s的速度跑到接力区前端s<sub>0</sub>=12m处时，向乙发出起跑口令，求此次练习中交接棒处离接力区前端的距离；","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"13965123","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":0},{"question_id":"16295615","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"为了取得最好成绩，需要乙恰好在速度达到与甲相同时被甲追上，则甲应在距离接力区前端多远时对乙发出起跑口令？他们跑完2×l00m全程的最好成绩（从甲起跑开始，至乙到达终点的总时间）是多少？","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"13965123","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":1},{"question_id":"16295623","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"若接力区的长度只有L′=9m，则他们的最好成绩又是多少？甲应在距离接力区前端多远是对已发出起跑口令？","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"13965123","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":2}],"_n":0}
+        });
+    });
+    </script>
+    
+
+
+</body>
+</html>
+
+
+    <script src="//static.zujuanyi.com/_local/clipboard/p.js?v=1578455633115"></script>    
+
