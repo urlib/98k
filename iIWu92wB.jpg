@@ -1,0 +1,1835 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+    <meta name="mobile-agent" content="format=xhtml;url=https://m.zujuan.com/paper/view-2312739.shtml">
+    <script type="text/javascript">    
+        (function(Switch){
+        var switch_pc = window.location.hash;
+        if(switch_pc != "#pc"){
+            if(/iphone|ipod|ipad|Android|nokia|blackberry|webos|webmate|bada|lg|ucweb|skyfire|sony|ericsson|mot|samsung|sgh|lg|philips|panasonic|alcatel|lenovo|cldc|midp|wap|mobile/i.test(navigator.userAgent.toLowerCase())){
+                
+                Switch.location.href='https://m.zujuan.com/paper/view-2312739.shtml';
+                }
+            }
+        })(window);
+    </script>
+
+<meta charset="utf-8"/>
+<meta name="renderer" content="webkit"><!--用在360中-->
+<meta name="force-rendering" content="webkit"><!--用在其它-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>    
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<meta name="applicable-device" content="pc">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="GRUyX61Ejiw6GSH3H_7SxvHb08zO2RnIFoHNtoo7jDhXOGUqwD7iFQ5hEI5IzJqkupeApaOXVq5QuKzQ0nj7AQ==">
+<title>浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷-组卷网</title>
+
+<link rel="stylesheet" href="//static.zujuanyi.com/artDialog/css/ui-dialog.css">
+<link rel="stylesheet" href="//static.zujuanyi.com/artDialog/css/artDialog-skin-ot2.css">
+<link rel="stylesheet" href="//static.zujuanyi.com/_local/s/css/zujuanw.min.css?v=d5e4da8992">
+<style>
+    .grecaptcha-badge { display: none; }
+    .JV_list { min-height: 500px; }
+</style>
+
+<script>
+
+    var JST = {}; // js模板集合
+    var Now = '2020-01-08 11:55:33';
+    var User = {"co_partner":null,"xd":"3","chid":"6","q_nianji_id":0,"q_book_id":0,"p_nianji_id":0,"p_book_id":0,"uid":null};
+    var QuesVersionGrade = {};
+    var PaperVersionGrade = {};
+    var Xd_Subjects = {"1":{"2":"语文","3":"数学","4":"英语","5":"科学","9":"政治思品"},"2":{"2":"语文","3":"数学","4":"英语","5":"科学","6":"物理","7":"化学","8":"历史","9":"政治思品","10":"地理","11":"生物","20":"历史与社会","21":"社会思品"},"3":{"2":"语文","3":"数学","4":"英语","6":"物理","7":"化学","8":"历史","9":"政治思品","10":"地理","11":"生物","14":"信息技术","15":"通用技术"}};
+    var Chid_Subjects = {"2":"语文","3":"数学","4":"英语","5":"科学","6":"物理","7":"化学","8":"历史","9":"政治思品","10":"地理","11":"生物","14":"信息技术","15":"通用技术","16":"劳技","19":"基本能力","20":"历史与社会","21":"社会思品"};
+    var Xds = {"1":"小学","2":"初中","3":"高中"};
+    var Application = {
+        AppName: 'zujuanw',
+        DEF_XD: '3',
+        DEF_CHID: '6',
+        debounceTime: 400
+    };
+    
+    var HtmText = {"report":"纠错"};
+    var CDN_STATIC_DOMAIN = 'static.zujuanyi.com';
+    var CDN_LOCAL_DOMAIN = '//static.zujuanyi.com/_local';
+    
+
+    var mURL = function(url, args) {
+        if (url == '/paper/view/') {
+            if (Application.AppName == 'zujuanw') {
+                return '/paper/view-'+args+'.shtml';
+            }
+            return '/paper/view/'+args;
+        }
+        if (url == '/question/detail/') {
+            if (Application.AppName == 'zujuanw') {
+                return '/question/detail-'+args+'.shtml';
+            }
+            return '/question/detail/'+args;
+        }
+        if (url == '/subject/detail/') {
+                if (Application.AppName == 'zujuanw') {
+                    return 'subject/detail?id=' + args;
+                }
+                return 'subject/detail/'+args;
+            }
+        return url;
+    };
+    Application.dataState = {
+        hostInfo: "https://www.zujuan.com",
+        csrf: {"_csrf": "GRUyX61Ejiw6GSH3H_7SxvHb08zO2RnIFoHNtoo7jDhXOGUqwD7iFQ5hEI5IzJqkupeApaOXVq5QuKzQ0nj7AQ=="} 
+    };  
+    var console = console || {};
+    console.log = console.log || function() { document.title = '组卷网-在线组卷网,学科组卷平台' }
+    if (! Array.prototype.indexOf) {    
+        Array.prototype.indexOf = function(val) {    
+            var value = this;    
+            for(var i = 0; i < value.length; i++) {    
+                if (value[i] == val) return i;    
+            }    
+            return -1;    
+        };    
+    }  
+
+</script><style>
+    .item-mc .item-tit { margin-top: 0; padding-top: 24px; }
+    .download-wrap.preview-h .item-mc { margin-right: 0; }
+    .download-wrap.preview-h .item-act { margin-left: 0; width: auto; float: right; margin-top: 0; clear: both; }
+    .item-mc .item-attr { clear: both; margin-top: 0; }
+
+
+    .share-wrap { position: relative; padding-bottom:8px; }
+    .share-wrap:hover .share-list { display:block; }
+    .share-list { display: none; position: absolute; top:36px; left:-30px; width: 108px; text-align: center; background: #fff; border: 1px solid #2bbb61; border-radius: 5px; overflow: hidden; }
+    .share-wrap .share-list span { margin:0; display: block; color: #333; }
+    .share-list span:hover { background: #f5f5f5; color: #2bbb61; }
+    .w100 { width: 100px !important }
+    .join-btn { position: relative; background: #ff453b; color: #fff; border-radius: 5px; margin-left: 10px; }
+    .join-btn:hover { background: #fd6e67; }
+    .join-btn:hover .join-tip { display: block; }
+    .join-tip { display:none; position: absolute; width: 190px; top: 44px; left: -68px; padding: 15px 18px; background:#fff; border: 1px solid #ddd; border-radius: 4px; text-align: left; line-height: 22px; }
+    .join-tip .iconw-tri-t { position: absolute; left: 50%; margin-left: -4px; bottom: 100%; z-index: 1; }
+    .join-tip span { font-size: 14px; color:#333; padding-top: 35px; }
+
+
+    .do-q-mc .q-mc, .do-q-mc .question-block { z-index: 0; }
+    .guide-shade { display:none; position: fixed; top:0; left:0; width: 100%; height:100%; background: #000; opacity: .6; filter: alpha(opacity=60); z-index: 10000; }
+    .guide { display:none; position:absolute; right:-2px; top:-10px;  width: 320px; height: 282px; z-index: 10001; }
+    .guide-close { position: absolute; width: 24px; height: 24px; top: 100px; right: 10px;background: url('/s/images/active201811/guide-close.png') no-repeat; cursor: pointer; }
+    .guide-con { position: relative; z-index: 10001; }
+    .guide-hd { text-align: right; }
+    .guide-bd { width: 289px; height: 160px; background: url('/s/images/active201811/guide-bd.png') no-repeat; text-align: center; }
+    .guide-bd p { width: 190px; margin: 0 auto; padding: 32px 0 15px; font-size: 14px; color: #333; line-height: 1.6; }
+    .guide-bd a { float: none !important; line-height: 1 !important; display:inline !important; font-size: 14px; color: #2bbb61; }
+    .guide-bd a:hover { text-decoration: underline; }
+
+    /*试卷属性*/
+    .test-type { position: relative; cursor: pointer; padding-left: 5px !important; padding-bottom: 35px; }
+    .test-type i.iconw-down2 { margin-left: 3px !important; margin-top: 5px !important; }
+    .test-type:hover .test-type-wrap { display: block; }
+    .test-type-wrap { display:none; position: absolute; top: 30px; left: 50%; margin-left: -170px; background: #fff; width: 348px; border: 1px solid #ddd; border-radius: 5px; box-shadow: -3px 4px 10px rgba(0,0,0,.2); }
+    .test-type-wrap .iconw-tri-t { position: absolute; left: 50%; margin-left: -4px; bottom: 100%; z-index: 1; }
+    .test-type-con { padding: 0 28px 25px; }
+    .test-type-con h3 { padding-top:25px; padding-bottom:8px; font-size: 14px; color:#333; }
+    .test-type-con p { font-size: 14px; color:#333; padding-top: 10px; line-height: 1.6 }
+</style>
+</head>
+<body>
+    <!--[if lt IE 9]>
+    <link href="//static.zujuanyi.com/kill-ie/kill-ie.css" rel="stylesheet" type="text/css">
+    <script src="//static.zujuanyi.com/kill-ie/kill-ie.js"></script>
+<![endif]-->
+    <div class="HeaderView">
+<div class="top-inner-head">
+    <div class="g-cw top-head-bd cfx">
+        <div class="fl inner-logo">
+            <a href="/"><img src="//static.zujuanyi.com/_local/s/images/zujuanw/logo_zujuan_w.png"></a>
+        </div>
+        <div class="w fl J_top_search_form">
+            <div class="searchbox-bd">
+    <form class="search-form" action="/question/search" method="GET"
+        target="_blank" 
+    >
+        <input type="hidden" name="xd" value="3">
+        <input type="hidden" name="chid" value="6">
+        <div class="search-wrap cfx">
+            <div class="new-search-type">
+                <span class="search-select">
+                    <em class="searc-txt">试题</em>
+                    <i class="iconw-search-down"></i>
+                </span>
+                <ul class="new-search-list">
+                    <li>
+                        <input type="radio" name="type" value="paper"  style="display: none;">
+                        <span>试卷</span>
+                    </li>
+                    <li>
+                        <input type="radio" name="type" value="question" checked style="display: none;">
+                        <span>试题</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="search">
+                <input type="text" name="content" class="search-inputtxt" value="" placeholder="请输入搜索关键词">
+                <span class="btn-search">         
+                    <button type="submit" id="J_submit"><i class="iconw-search"></i></button>
+                </span>
+            </div>
+        </div>
+    </form>
+</div>        </div>
+        <ul class="top-nav-cn fr">
+            <li class="p-20">
+                <a href="/" class="menu-tit">首页 </a>
+            </li>
+            <li class="sep"></li>
+            <li class="p-20">
+                
+                <a href="javascript:;" onclick="Application.popupLogin()" class="menu-tit">激活码</a>
+                
+            </li>
+            <li class="sep"></li>
+            <li class="p-20">
+                <a href="/payment/vip-intro" class="menu-tit">购买VIP </a>
+            </li>
+            <li class="sep"></li>
+            <li class="p-20">
+                
+                <a href="javascript:;" onclick="Application.popupLogin()" class="menu-tit">团体VIP </a>
+                
+            </li>
+            <li class="sep"></li>
+            <li class="p-20">
+                <a href="/help/article?id=55" class="menu-tit">帮助中心 </a>
+            </li>
+            <!--登录前-->
+            
+            <li class="login-item">
+                <a href="//passport.zujuan.com/login?jump_url=http://www.zujuan.com/" class="top-login-item">登录</a>
+                <a href="//passport.zujuan.com/register?jump_url=http://www.zujuan.com" class="top-register-item">注册</a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+</div>
+
+    
+    <div class="download-wrap b-head preview-h" id="ohead-fix">
+        <div class="g-cw">
+            <div class="item-mc  cfx">
+                <h3 class="item-tit"><a href="javascript:;" title="浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷">浙江省杭州学军中学2019-2020学年高一上学期物理期中考...</a></h3>
+                <div class="item-act">
+                    <a href="javascript:;" class="download-btn w100" onclick="Application.popupPaperDownload(2312739,0)">下载试卷</a>
+<a class="fun-btn J_clonePaper" href="javascript:;"><span class="iconw-copypaper"></span>平行组卷</a>
+
+    <a href="javascript:;"class="fun-btn P_collect"><span class="iconw-collect-h"></span>收藏试卷</a>
+
+<a href="javascript:;" class="fun-btn share-wrap">
+    <span class="iconw-ceshi"></span>
+    在线测评
+    <div class="share-list">
+        <span class="J_assess" onclick="Application.popQuestionAssess('2312739','0',true)">发布测评</span>
+        <span class="J_assess_myself" onclick="Application.popQuestionAssess('2312739','0')">在线自测</span>
+    </div>
+</a>
+
+<a href="javascript:;" class="fun-btn J_answer_card" ><span class="iconw-card"></span>答题卡下载</a>
+   
+                </div>
+                <div class="item-attr">
+                    <span><i class="iconw-time"></i>修改时间：2019-12-17</span>
+                    <span><i class="iconw-eye1"></i>浏览次数：12</span>
+                    
+                    
+                    <span><i class="iconw-leixing"></i>类型：期中考试</span>
+                    
+                    <span class="test-type">
+                        <font>试卷属性</font><i class="iconw-down2"></i>
+                        <div class="test-type-wrap">
+                            <b class="iconw-tri-t"></b>
+                            <div class="test-type-con">
+                                <h3>副标题：</h3>
+                                <P>无</P>
+                                <h3>*注意事项：</h3>
+                                <p>无</p>
+                            </div>
+                        </div>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="b-wrap g-cw cfx">
+        <div class="w fl">
+            <div class="g-mn2">
+                <div class="preview-wrap f-usn" onselectstart="return false" onselect="return false" oncontextmenu="return false" ondragstart="return false">
+                    <div class="preview-hd">
+                        
+                        <a href="javascript:;" class="fr p-selall J_all_basket">选择试卷全部试题</a>
+                    </div>
+                    <div class="do-q-bd preview-bd"><ul id="j-queslist-tmp" class="J_ques_item">
+                        
+                        
+                            <div class="do-q-mt">
+                                    <strong class="do-q-tit">一、单选题  </strong>
+                                </div>
+                                <ul class="do-q-mc">
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">1. 某在研究物体的运动时,下列物体中可以当作质点处理的是（ &nbsp;&nbsp;）
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">研究国庆阅兵时主战坦克驶过广场的时间</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">拍摄危机奔跑中的同学</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">4×100米比赛中正在交接的短棍</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">正在驶入车位的汽车．</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162195.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162195)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">2. 下列说法正确的是（ &nbsp;&nbsp;）
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">地球对物体的万有引力就是物体所受重力</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">将物体向上搬运要比向下搬运更费劲，是因为物体向上运动时所受的重力比较大</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">形状固定的物体其重心相对于自身位置不会因为物体的运动而发生变化</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">静止在水平地面上的物体所受的重力即是物体对地面的正压力．</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162197.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162197)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">3. 下列关于摩擦力的说法中,正确的是（ &nbsp;&nbsp;）
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">静止的物体受到的摩擦力必是静摩擦力</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">运动的物体受到的摩擦力必是滑动摩擦力</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">物体接触面上所受摩擦力的大小与该接触面上弹力大小成正比</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">滑动摩擦力一定阻碍物体间的相对滑动．</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162199.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162199)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">4. 关于速度、速度的变化量、速度变化率的关系，下列说法中正确的是(　　)
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">速度的变化量越大，速度变化率一定越大</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">速度越大，速度的变化量一定越大</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">速度变化率为零，速度一定为零</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">速度为零，速度变化率不一定为零</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-8106115.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(8106115)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">5. 假期里，一位同学在厨房里协助妈妈做菜，对菜刀发生了兴趣。他发现菜刀的刀刃前部和后部的厚薄不一样，如图所示，菜刀横截面为等腰三角形，刀刃前部的横截面顶角较小，后部的顶角较大，他先后做出过几个猜想,其中合理的是（&nbsp;&nbsp;&nbsp; ）  <p align="left"><img width="155" height="158" src="//tikupic.21cnjy.com/83/14/831426c2f4b5d02fa5a9ca10cebaf20c.png" v:shapes="_x0000_i1028"></p><p align="left"></p>
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">刀刃前部和后部厚薄不匀，仅是为了打造方便,外形美观,跟使用功能无关</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">在刀背上加上同样的压力时，分开其他物体的力跟刀刃厚薄无关</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">在刀背上加上同样的压力时，顶角越大，分开其他物体的力越大</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">在刀背上加上同样的压力时，顶角越小，分开其他物体的力越大</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-1332322.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(1332322)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">6. 有一列火车正在做匀加速直线运动。从某时刻开始计时，第1min内，发现火车前进了180m，第2min内，发现火车前进了360m。则火车的加速度为（ &nbsp;&nbsp;）
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">0.01m/s<sup>2</sup></span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">0.05 m/s<sup>2</sup></span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">36 m/s<sup>2</sup></span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">180 m/s<sup>2</sup></span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162203.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162203)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">7. 如图所示，质量为m的质点和半径为R的半球体均静止，质点与半球体间的动摩擦因数为μ，质点与球心的连线与水平地面的夹角为θ，则下列说法正确的（ &nbsp;&nbsp;）  <p align="left"> <img width="132" height="80" src="//tikupic.21cnjy.com/5a/9e/5a9ef72c777322af69d97eb8c431c70c.png" alt="图片_x0020_1631529284"> </p>
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">地面对半球体的摩擦力方向水平向左</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">质点对半球体的压力大小为mgcosθ</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">质点所受摩擦力大小为μmgcosθ</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">质点所受摩擦力大小为mgcosθ</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162205.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162205)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">8. 从某一高度相隔1s先后自由释放两个相同的小球甲和乙，不计空气的阻力，它们在空中任一时刻（ &nbsp;&nbsp;）
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">甲、乙两球距离始终保持不变，甲、乙两球速度之差保持不变</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">甲、乙两球距离越来越大，甲、乙两球速度之差也越来越大</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">甲、乙两球距离越来越大，甲、乙两球速度之差保持不变</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">甲、乙两球距离越来越小，甲、乙两球速度之差也越来越小</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162207.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162207)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">9. 在校运会上，开展了多个项目的比赛，下列关于各比赛项目的说法中正确的是（ &nbsp;&nbsp;）
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">100米比赛比的是最大速度</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">立定跳远比赛比的是位移</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">铅球比赛比的是位移大小</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">200米比赛比的是平均速度大小.</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162209.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162209)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">10. 如图所示,小球A系在竖直拉紧的细绳下端,球恰好又与斜面接触并处于静止状态,则小球A所受的力是(&nbsp;&nbsp; &nbsp;&nbsp;)  <p align="left"> <img width="104" height="113" src="//tikupic.21cnjy.com/c5/9f/c59f65c8118048981834a6c6eb4daa05.png" v:shapes="_x0000_i1028"> </p>
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">重力和绳对它的拉力</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">重力、绳对它的拉力和斜面对它的弹力</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">重力和斜面对球的支持力</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">绳对它的拉力和斜面对它的支持力</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162211.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162211)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">11. 汽车以20m/s的速度做匀速直线运动，刹车后的加速度为5 m/s<sup>2</sup>  ， 那么开始刹车后2秒与开始刹车后6秒汽车通过的位移之比为(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)</p>
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">1∶1</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">3∶1</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">3∶4</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">4∶3</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-1018821.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(1018821)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">12. 如图所示，两块完全相同的积木A、B叠放在一起，质量均为m，交界面与水平面夹角为θ，B与水平地面的动摩擦因数为μ，对B物块作用大小为F的水平外力后两积木仍然保持静止状态，则B物块所受的水平地面摩擦力大小一定为（&nbsp;&nbsp; ）<p><img data-cke-saved-src="//tikupic.21cnjy.com/06/c6/06c6bbb837dcc1a77809307730c4f27d.png" src="//tikupic.21cnjy.com/06/c6/06c6bbb837dcc1a77809307730c4f27d.png" v:shapes="图片_x0020_100006" width="113" height="136"></p>
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">F</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">2μmg</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">F-mgcosθ</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">F-mgcos<sup>2</sup>θ</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-9013546.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(9013546)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">13. 假设某次海试活动中，“蛟龙号”完成海底任务后竖直上浮，从上浮速度为v时开始计时，此后“蛟龙号”匀减速上浮，经过时间t上浮到海面，速度恰好减为零，则“蛟龙号”在 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3Et%3C%2Fmi%3E%3Cmn%3E0%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> （ <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3Et%3C%2Fmi%3E%3Cmn%3E0%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> &lt;t）时刻距离海平面的深度为（ &nbsp;&nbsp;）
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat"><img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmfrac%3E%3Cmrow%3E%3Cmi%3Ev%3C%2Fmi%3E%3Cmi%3Et%3C%2Fmi%3E%3C%2Fmrow%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmfrac%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"></span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat"><img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmfrac%3E%3Cmrow%3E%3Cmsup%3E%3Cmi%3Ev%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsup%3E%3C%2Fmrow%3E%3Cmrow%3E%3Cmn%3E2%3C%2Fmn%3E%3Cmi%3Et%3C%2Fmi%3E%3C%2Fmrow%3E%3C%2Fmfrac%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"></span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat"><img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3Et%3C%2Fmi%3E%3Cmn%3E0%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%3D%3C%2Fmo%3E%3Cmfrac%3E%3Cmi%3Ev%3C%2Fmi%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3Ea%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmfrac%3E%3Cmo%3E%3D%3C%2Fmo%3E%3Cmn%3E0.6%3C%2Fmn%3E%3Cmtext%3Es%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"></span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat"><img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmi%3Es%3C%2Fmi%3E%3Cmo%3E%3D%3C%2Fmo%3E%3Cmfrac%3E%3Cmrow%3E%3Cmsup%3E%3Cmi%3Ev%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsup%3E%3C%2Fmrow%3E%3Cmrow%3E%3Cmn%3E2%3C%2Fmn%3E%3Cmsub%3E%3Cmi%3Ea%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmfrac%3E%3Cmo%3E%3D%3C%2Fmo%3E%3Cmn%3E1.8%3C%2Fmn%3E%3Cmtext%3Em%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> .</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162215.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162215)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                </ul>
+                                
+                        
+                            <div class="do-q-mt">
+                                    <strong class="do-q-tit">二、多选题  </strong>
+                                </div>
+                                <ul class="do-q-mc">
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">14. 甲、乙两个物体在同一直线上运动，其x－t图象如图所示，其中直线b与曲线a相切于点(4，－15)．已知甲做匀变速直线运动，下列说法正确的是(&nbsp;&nbsp; )  <p align="left"> <img width="111" height="111" src="//tikupic.21cnjy.com/49/3c/493c18dd6e259afddd4f8cc06c9bc586.jpg" alt="图片_x0020_781046251"> </p>
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">前4 s内两物体运动方向相同</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">前4 s内甲的平均速度是乙的平均速度的 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmfrac%3E%3Cmrow%3E%3Cmn%3E15%3C%2Fmn%3E%3C%2Fmrow%3E%3Cmn%3E7%3C%2Fmn%3E%3C%2Fmfrac%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 倍</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">t＝0时刻，甲的速度大小为9 m/s</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">甲的加速度大小为2 m/s<sup>2</sup></span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162217.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162217)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">15. 有关瞬时速度、平均速度、平均速率,下列说法中正确的是(&nbsp;&nbsp; )
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">瞬时速度是物体在某一位置或某一时刻的速度</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">平均速度等于某段时间内物体运动的位移与所用时间的比值</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">作变速运动的物体，平均速率就是平均速度的大小</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">作单向直线运动的物体，平均速率等于平均速度的大小.</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162219.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162219)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">16. 甲、乙两汽车在同一条平直公路上同向运动,其速度υ−时间t图象分别如图中甲、乙两条曲线所示。已知两车在t<sub>2</sub>时刻并排行驶,下列说法正确的是(&nbsp;&nbsp; )  <p align="left"> <img width="159" height="126" src="//tikupic.21cnjy.com/7b/b4/7bb47ee7582d351a1076d1c4da4b684a.png" alt="图片_x0020_100008"> </p>
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">两车在t<sub>1</sub>时刻也并排行驶</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">t<sub>1</sub>时刻甲车在后，乙车在前</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">t<sub>2</sub>时候乙车从后面追上甲车</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">乙车的加速度大小先减小后增大.</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162221.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162221)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">17. 如图所示，用一段绳子把轻质滑轮吊装在A点，一根轻绳跨过滑轮，绳的一端拴在井中的水桶上，人用力拉绳的另一端，滑轮中心为O点，人所拉绳子与OA的夹角为β，拉水桶的绳子与OA的夹角为α。人拉绳沿水平面向左运动，把井中质量为m的水桶匀速提上来，人的质量为M，重力加速度为g，在此过程中，以下说法正确的是(&nbsp;&nbsp; )  <p align="left"> <img width="175" height="165" src="//tikupic.21cnjy.com/70/d7/70d7c3480dd3b688028db04522824020.jpg" v:shapes="图片_x0020_100016"> </p>
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">α始终等于β</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">吊装滑轮的绳子上的拉力逐渐变大</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">地面对人的摩擦力逐渐变大</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">地面对人的支持力逐渐变大</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162223.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162223)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">18. 将力 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmi%3EF%3C%2Fmi%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 分解成 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 、 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 两个分力，如果已知 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 的大小和 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 与 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3Cmi%3EF%3C%2Fmi%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 之间的夹角 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmi%3E%CE%B1%3C%2Fmi%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> ，且 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmi%3E%CE%B1%3C%2Fmi%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 为锐角，则（ &nbsp;&nbsp;）
+
+</div>
+
+                                                        
+                                                        
+<div class="exam-s">
+    
+    <span class="op-item"><span class="op-item-nut">A . </span><span class="op-item-meat">当 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmsub%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3Cmo%3E%26gt%3B%3C%2Fmo%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmtext%3Esin%CE%B1%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 时，一定有两解</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">B . </span><span class="op-item-meat">当 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmo%3E%26gt%3B%3C%2Fmo%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3Cmo%3E%26gt%3B%3C%2Fmo%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmtext%3Esin%CE%B1%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 时，有两解</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">C . </span><span class="op-item-meat">当 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3Cmo%3E%3D%3C%2Fmo%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmtext%3Esin%CE%B1%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 时，才有唯一解</span></span>
+    
+    <span class="op-item"><span class="op-item-nut">D . </span><span class="op-item-meat">当 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%26lt%3B%3C%2Fmo%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmtext%3Esin%CE%B1%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 时，无解.</span></span>
+    
+</div>
+
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162225.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162225)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                </ul>
+                                
+                        
+                            <div class="do-q-mt">
+                                    <strong class="do-q-tit">三、实验题  </strong>
+                                </div>
+                                <ul class="do-q-mc">
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">19. 在探究力的运算法则实验时，其步骤是：
+
+<p align="left"> <img width="461" height="169" src="//tikupic.21cnjy.com/23/8a/238aee01919616314f74127fc5352169.png" alt="图片_x0020_100012"> </p>
+
+</div>
+
+                                                        
+                                                            <ol class="q-bd-list">
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（1）将橡皮条一端固定，用两个测力计对另一端的结点施加互成角度的两个力F<sub>1</sub>和F<sub>2</sub>  ， 使橡皮条伸长后，结点处于某一位置，这时要记录结点O的位置和{#blank#}1{#/blank#}换成一个测力计对橡皮条施加一个力F<sub>3</sub>时，要将结点{#blank#}2{#/blank#}，其目的是{#blank#}3{#/blank#}。
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（2）在验证力的平行四边形定则的实验中，F<sub>1</sub>和F<sub>2</sub>表示两个互成角度的力， <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmi%3EF%3C%2Fmi%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 表示由平行四边形定则作出的F<sub>1</sub>和F<sub>2</sub>的合力， <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmo%3E%E2%80%B2%3C%2Fmo%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 表示用一个测力计拉橡皮筋时的力，则如图2中符合实验事实的是{#blank#}1{#/blank#}。
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                            </ol>
+                                                        
+                                                        
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162227.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162227)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">20. 在研究匀变速直线运动实验中，某同学得到一条的纸带如图所示，并在其上取了A．B．C．D．E. F.&nbsp;G等7个计数点，每相邻两个计数点间还有4个点没有画出。
+
+<p align="left"> <img width="376" height="156" src="//tikupic.21cnjy.com/23/91/239161d612c70f085c34d6efc56a4452.png" alt="图片_x0020_100013"> </p>
+
+</div>
+
+                                                        
+                                                            <ol class="q-bd-list">
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（1）设打点计时器打点周期为T，打F点时速度为v<sub>F</sub>  ， 则计算v<sub>F</sub>的公式为v<sub>F</sub>={#blank#}1{#/blank#}（用T和图中已知物理量表示）
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（2）图中d<sub>1</sub>=2.00cm、d<sub>2</sub>=4.50cm、d<sub>3</sub>=7.60cm、d<sub>4</sub>=11.30cm、d<sub>5</sub>=15.50cm、d<sub>6</sub>=20.20cm，打点计时器打点周期为0.02s，则小车运动的加速度a={#blank#}1{#/blank#}m/s<sup>2</sup>.（结果保留2位有效数字）
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（3）如果当时电网中交变电流的频率是f=52Hz，而做实验的同学并不知道，由此引起的{#blank#}1{#/blank#}（选填“系统”或“偶然”）误差将使加速度的测量值比实际值偏{#blank#}2{#/blank#}（选填“大”或“小”）
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                            </ol>
+                                                        
+                                                        
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162233.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162233)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                </ul>
+                                
+                        
+                            <div class="do-q-mt">
+                                    <strong class="do-q-tit">四、解答题  </strong>
+                                </div>
+                                <ul class="do-q-mc">
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">21. 已知火车出站后做匀加速直线运动，出站时的速度是36km/h，火车的加速度是1m/s<sup>2</sup>  ， 问：
+
+</div>
+
+                                                        
+                                                            <ol class="q-bd-list">
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（1）火车出站20s后的位移大小是多少？
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（2）这段时间内的平均速度是多少？
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（3）20s&nbsp;末的速度是多大？
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                            </ol>
+                                                        
+                                                        
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162241.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162241)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">22. 质量为100N，长为L=2m的均匀木棒放在水平桌面上，如图甲所示，至少要用35N的水平推力，才能使它从原地开始运动。木棒从原地移动以后，用30N的水平推力，就可以使木棒继续做匀速运动。求：
+
+<p align="left"> <img width="340" height="143" src="//tikupic.21cnjy.com/e7/a3/e7a350bb17e443e746afa264b4bb7ddc.png" alt="图片_x0020_100014"> </p>
+
+</div>
+
+                                                        
+                                                            <ol class="q-bd-list">
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（1）木棒与桌面间的最大静摩擦力大小 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3Ef%3C%2Fmi%3E%3Cmrow%3E%3Cmi%3Em%3C%2Fmi%3E%3Cmi%3Ea%3C%2Fmi%3E%3Cmi%3Ex%3C%2Fmi%3E%3C%2Fmrow%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;">
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（2）木棒与桌面间的动摩擦因数 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3E%CE%BC%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;">
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（3）若把木棒放到倾斜角为37°的固定斜面上，木棒恰好匀速下滑，如图乙，求斜面和木棒间的动摩擦因数 <img class="mathml" src="//math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3E%CE%BC%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b" style="vertical-align: middle;"> 。（sin37°=0.6，cos37°=0.8）
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                            </ol>
+                                                        
+                                                        
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-15162249.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(15162249)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                        
+                                        <li class="QuestionView">
+                                                <div class="question-block">
+                                                    <div class="q-mc">
+                                                        <div class="q-tit">23. 如图，甲、乙两名运动员在训练2×100m接力赛跑。己知甲、乙两运动员的起跑过程可看成加速度大小为2m/s<sup>2</sup>的匀加速运动，且经加速后都能达到并保持v<sub>m</sub>=8m/的速度跑完全程。已知接力区的长度为L=18m，乙在接力区前端听到口令时起跑，在甲乙相遇时完成交接棒，假设接棒动作不影响运动员的速度大小。
+
+<p align="left"> <img width="334" height="148" src="//tikupic.21cnjy.com/fa/d5/fad5eeda5ef25f4ba81f6cfe3c57030c.png" v:shapes="图片_x0020_272226802"> </p>
+
+</div>
+
+                                                        
+                                                            <ol class="q-bd-list">
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（1）在某次练习中，甲以v<sub>m</sub>=8m/s的速度跑到接力区前端s<sub>0</sub>=12m处时，向乙发出起跑口令，求此次练习中交接棒处离接力区前端的距离；
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（2）为了取得最好成绩，需要乙恰好在速度达到与甲相同时被甲追上，则甲应在距离接力区前端多远时对乙发出起跑口令？他们跑完2×l00m全程的最好成绩（从甲起跑开始，至乙到达终点的总时间）是多少？
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                                    
+                                                                    <li>
+                                                                        <div class="question-block">
+                                                                            <div class="q-mc">
+                                                                                    <div class="q-tit">（3）若接力区的长度只有L′=9m，则他们的最好成绩又是多少？甲应在距离接力区前端多远是对已发出起跑口令？
+
+</div>
+
+                                                                                    
+
+
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                
+                                                            </ol>
+                                                        
+                                                        
+
+
+
+                                                    </div>
+                                                    <div class="paper-fun-list cfx J_acts">
+    <a href="/question/detail-13965123.shtml" target="_blank" class="paper-fun-item">
+        <i class="iconw-jiexi"></i>答案解析
+    </a>
+
+    
+    <a href="javascript:;" class="paper-fun-item J_collect">
+        <i class="iconw-collect"></i>收藏
+    </a>
+    
+    <a href="javascript:;" onclick="Application.popupErrorReport(13965123)" class="paper-fun-item J_correct">
+        <i class="iconw-error"></i>纠错
+    </a>
+    
+    <a href="javascript:;" class="paper-fun-item J_add_it ">
+        + 选题
+    </a>
+    
+</div>
+                                                </div>
+                                            </li>
+                                    
+                                </ul>
+                                
+                        
+                    </ul></div>
+                </div>
+            </div>
+        </div>
+        <div class="g-sd2">
+            <div class="chart-wrap" id="sd-fix">
+                <div class="chart-hd">
+                    <p><a href="javascript:;" class="detail-btn" onclick="Application.AnalyzeChart.show(2312739,0)">详情</a></p>
+                    <h2>试卷分析</h2>
+                    <span>(总分：<span class="J_chart_score">0</span>)</span>
+                </div>
+                <div class="chart-bd">
+                    <h3 class="chart-mt">总体分析</h3>
+                    <div class="chart-mc" id="J_total">
+                    </div>
+                    <h3 class="chart-mt ">题量分析</h3>
+                    <div class="chart-mc" id="J_chart_num">
+                    </div>
+                    <h3 class="chart-mt">难度分析</h3>
+                    <div class="chart-mc" id="J_chart_difficulty">
+                    </div>
+                    <h3 class="chart-mt">知识点分析</h3>
+                    <div class="chart-mc" id="J_chart_knowlist">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="BasketView"></div>
+    <script> document.getElementById('j-queslist-tmp').innerHTML = ''; </script>
+    <script src="https://www.recaptcha.net/recaptcha/api.js?render=6Le4laMUAAAAANmlTcZmNCMlqWBoGkaRnIelSH8T"></script>
+<script src="https://cdn.bootcss.com/jquery/1.12.0/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/jquery-validate/1.15.1/jquery.validate.min.js"></script>
+<script src="//static.zujuanyi.com/json2/json2.js"></script>
+<script src="https://cdn.bootcss.com/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://cdn.bootcss.com/backbone.js/1.3.3/backbone-min.js"></script>
+<script src="//static.zujuanyi.com/backbone-query-parameters/backbone.queryparams.min.js"></script>
+<script src="//static.zujuanyi.com/artDialog/dist/dialog-plus.js"></script>
+<script>
+    $(document).ajaxError(function(t,i,n){if(401==i.status&&i.responseText)if(dialog){var o=dialog({id:"_dialog_ajax_verify_intercept",content:i.responseText,title:"安全验证"});window._ajax_verify_success_callback=function(){o.remove(),$.ajax(n)},o.showModal()}else alert("无权限操作，请联系管理员！")});
+</script>
+<script src="https://cdn.bootcss.com/moment.js/2.18.1/moment.js"></script>
+<script src="https://cdn.bootcss.com/moment.js/2.18.1/locale/zh-cn.js"></script>
+<script src="https://cdn.bootcss.com/highcharts/4.2.6/highcharts.js"></script>
+<script src="//static.zujuanyi.com/js/raphael.min.js"></script>
+<script src="//static.zujuanyi.com/js/jquery.md5.js"></script>
+<script src="https://cdn.bootcss.com/jquery.serializeJSON/2.3.1/jquery.serializejson.js"></script>
+<script src="https://cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//static.zujuanyi.com/superslide/jquery.SuperSlide.2.1.1.js"></script>
+<script src="//static.zujuanyi.com/_local/lib/ckeditor2/ckeditor.js"></script>
+<script src="//static.zujuanyi.com/_local/lib/texzilla.js"></script>
+<script src="//static.zujuanyi.com/_local/lib/jquery-ui-1.9.2.custom/js/jquery-ui-1.9.2.custom.min.js"></script>
+<script> CKEDITOR.config.customConfig = 'config-custom.js'; </script>
+<script src="//static.zujuanyi.com/_local/s/js/jst-zujuanw.min.js?v=f896cac2d3"></script>
+<script src="//static.zujuanyi.com/_local/s/js/app.min.js?v=2be576fd15"></script>
+<script src="//static.zujuanyi.com/_local/s/js/common.min.js?v=de34137c5e"></script>
+<script src="//static.zujuanyi.com/_local/s/js/module.min.js?v=dddece2179"></script>
+
+
+
+<link rel="stylesheet" href="//static.zujuanyi.com/video6.6.2.js/css/video-js.min.css"/>
+<link rel="stylesheet" href="//static.zujuanyi.com/_local/s/css/video-help.min.css?v=40f50771ff">
+<div class="video_shade"></div>
+<div class="videos zujuanw" style="display:none;">
+    <div class="title_top">
+        手动组卷
+    </div>
+    <div class="m-video">
+        <div class="m-video-play">
+            <video id="example_video_1" class="video-js vjs-default-skin vjs-big-play-centered"
+                controls preload="auto" width="700" height="400"
+                poster="">
+            </video>
+        </div>
+        <div class="video_rs">
+            <div class="video_rs_t">
+                <span>操作演示</span>
+                <a href="javascript:;" class="btnadd">X</a>
+            </div>
+            <div class="video_rs_b">
+                <div class="one_tb hover_on" vid_src="http://static.zujuanyi.com/video/zujuan/helper/zujuan.mp4">
+                    <span class="one_tb_l">1</span>
+                    <div class="one_tb_r" title="手动组卷">
+                        <h3>手动组卷</h3>
+                        <p>组卷正确操作演示</p>
+                    </div>
+
+                </div>
+                <div class="one_tb" vid_src="http://static.zujuanyi.com/video/zujuan/helper/smarter.mp4">
+                    <span class="one_tb_l">2</span>
+                    <div class="one_tb_r" title="智能组卷">
+                        <h3>智能组卷</h3>
+                        <p>组卷正确操作演示</p>
+                    </div>
+
+                </div>
+                <div class="one_tb" vid_src="http://static.zujuanyi.com/video/zujuan/helper/edit.mp4">
+                    <span class="one_tb_l">3</span>
+                    <div class="one_tb_r" title="试卷编辑">
+                        <h3>试卷编辑</h3>
+                        <p>编辑页面的操作和功能介绍</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="//static.zujuanyi.com/video6.6.2.js/js/video.min.js"></script>
+
+<script type="text/javascript">
+    var myPlayer = videojs('example_video_1');
+    $("body").on('click','.video-play',function(){
+        $('.videos').show();
+        $('.video_shade').show();
+        var source = [{
+            type:"video/mp4",
+            src:"http://static.zujuanyi.com/video/zujuan/helper/zujuan.mp4"
+        }]
+        myPlayer.ready(function(){
+            var obj  = this;
+            obj.src(source);
+            obj.load();
+        })
+    });
+    $(".one_tb").click(function() {
+        $(this).addClass("hover_on").siblings(".one_tb").removeClass("hover_on");
+        var videoUrl = $(this).attr("vid_src");
+        var hName=$(this).find("h3").html();
+        $(".title_top").html(hName);
+        videojs("example_video_1", {}, function() {
+            window.myPlayer = this;
+            $("#example_video_1 source").attr("src", videoUrl);
+            myPlayer.src(videoUrl);
+            myPlayer.load(videoUrl);
+            myPlayer.play();
+        });
+        $(".click-modal").click();
+    });
+    $(".btnadd").click(function(){
+        $('.videos').hide();
+        $('.video_shade').hide();
+        myPlayer.pause();
+    });
+</script>
+
+
+
+<!-- 53kf and 统计代码 -->
+<script>
+    window.onload = function(){
+        // 点击咨询按钮
+        $('.kf53').click(function(){
+            var api = $53.createApi();
+            if($("#div_company_mini").css('display')=='block'){
+                if($("#iframe_company_mini_div").css('display')=='block'){
+                    // api.push('cmd', 'kfclient');
+                    // api.push('type', 'new');
+                    // api.query();
+                }else{
+                    api.push('cmd', 'kfclient');
+                    api.push('type', 'popup');
+                    api.query();
+                }
+                
+            }else{
+                api.push('cmd', 'kfclient');
+                api.push('type', 'popup');
+                api.query();
+                document.cookie="kf_consult=true";
+            }
+        })
+    };
+    (function() {
+        var _53code = document.createElement("script");
+        _53code.src ="https://tb.53kf.com/code/code/d7143bc22f6f6585f48d5267a8a69ca9/1";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(_53code, s);
+    })();
+
+    //统计代码
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?6de0a5b2c05e49d1c850edca0c13051f";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+    })();
+    //推送代码
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<script src="//static.zujuanyi.com/_local/s/js/checkIE.js"></script>
+
+
+
+    <script>
+    var query = {"internal":false};
+    var canCopyPaper = 1;
+    if(Application.AppName == 'zujuanw'){
+        canCopyPaper = 0
+    };
+    Application.bootstrap(function() {
+        return new Application.PaperShowView({
+            el: document.body,
+            canCopyPaper: canCopyPaper,
+            pid: '2312739',
+            filter_params: {"exam_types":{"1":"高考真题","2":"常考题","7":"模拟题"},"difficult_indexs":{"1":"容易","3":"普通","5":"困难"},"kid_nums":{"1":"1个知识点","2":"2个知识点","3":"多个知识点"},"question_channel_types":{"1":"单选题","2":"多选题","4":"填空题","5":"计算题","6":"解答题","26":"实验探究题","28":"综合题"},"grade_ids":{"10":"高一","11":"高二","12":"高三","13":"选修"},"sort_field":{"time":"时间","save_num":"组卷次数"},"years":{"2016":2016,"2017":2017,"2018":2018,"2019":"2019","-1":"更早"}},
+            paper_detail: {"_meta":{"xd":"3","chid":"6","uid":0,"title":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","style":[0,0,0,0,0,0,0,0,0,0,0,0],"timestamp":1578455733,"question_ids":"[15162195,15162197,15162199,8106115,1332322,15162203,15162205,15162207,15162209,15162211,1018821,9013546,15162215,15162217,15162219,15162221,15162223,15162225,15162227,15162233,15162241,15162249,13965123]","tizu_sort":["单选题  ","多选题  ","实验题  ","解答题  "],"pid":"2312739","download_num":"0","look_num":"12","paper_uid":"6898401","paper_type":"期中考试","addtime":"1576576229","edit_time":"1577617256","examine_time":"1576576229","question_num":23,"examtime":null,"notes":null,"part_name":null,"part_tip":null,"score":null,"subtitle":null,"part_count":null,"is_collect":false,"flag":0,"short_title":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考...","format_examine_time":"2019-12-17"},"content":[{"questions":[{"question_id":"15162195","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"","question_text":"某在研究物体的运动时,下列物体中可以当作质点处理的是（ &nbsp;&nbsp;）","options":{"A":"研究国庆阅兵时主战坦克驶过广场的时间","B":"拍摄危机奔跑中的同学","C":"4×100米比赛中正在交接的短棍","D":"正在驶入车位的汽车．"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"1","difficult_name":"容易","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"2","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":0},{"question_id":"15162197","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"","question_text":"下列说法正确的是（ &nbsp;&nbsp;）","options":{"A":"地球对物体的万有引力就是物体所受重力","B":"将物体向上搬运要比向下搬运更费劲，是因为物体向上运动时所受的重力比较大","C":"形状固定的物体其重心相对于自身位置不会因为物体的运动而发生变化","D":"静止在水平地面上的物体所受的重力即是物体对地面的正压力．"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"3","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":1},{"question_id":"15162199","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"","question_text":"下列关于摩擦力的说法中,正确的是（ &nbsp;&nbsp;）","options":{"A":"静止的物体受到的摩擦力必是静摩擦力","B":"运动的物体受到的摩擦力必是滑动摩擦力","C":"物体接触面上所受摩擦力的大小与该接触面上弹力大小成正比","D":"滑动摩擦力一定阻碍物体间的相对滑动．"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"3","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":2},{"question_id":"8106115","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"关于速度、速度的变化量、速度变化率的关系，下列说法中正确的是( )","question_text":"关于速度、速度的变化量、速度变化率的关系，下列说法中正确的是(　　)","options":{"A":"速度的变化量越大，速度变化率一定越大","B":"速度越大，速度的变化量一定越大","C":"速度变化率为零，速度一定为零","D":"速度为零，速度变化率不一定为零"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"1102119","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"27","new_flag":false,"is_use":0,"question_source":"云南省昭通市三中2017-2018学年高一下学期物理期中考试试卷","list":null,"_n":3},{"question_id":"1332322","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"假期里，一位同学在厨房里协助妈妈做菜，对菜刀发生了兴趣。他发现菜刀的刀刃前部和后部的厚薄不一样，如图所示，菜刀横截面为等腰三角形，刀刃前部的横截面顶角较小，后部的顶角较大，他先后做出过几个猜想,其中合理的是（    ）  <p align=left ><img width=155 height=158 src=\"http://tikupic.21cnjy.com/83/14/831426c2f4b5d02fa5a9ca10cebaf20c.png\" v:shapes=\"_x0000_i1028\"></p>","question_text":"假期里，一位同学在厨房里协助妈妈做菜，对菜刀发生了兴趣。他发现菜刀的刀刃前部和后部的厚薄不一样，如图所示，菜刀横截面为等腰三角形，刀刃前部的横截面顶角较小，后部的顶角较大，他先后做出过几个猜想,其中合理的是（&nbsp;&nbsp;&nbsp; ）  <p align=\"left\"><img width=\"155\" height=\"158\" src=\"http://tikupic.21cnjy.com/83/14/831426c2f4b5d02fa5a9ca10cebaf20c.png\" v:shapes=\"_x0000_i1028\"></p><p align=\"left\"></p>","options":{"A":"刀刃前部和后部厚薄不匀，仅是为了打造方便,外形美观,跟使用功能无关","B":"在刀背上加上同样的压力时，分开其他物体的力跟刀刃厚薄无关","C":"在刀背上加上同样的压力时，顶角越大，分开其他物体的力越大","D":"在刀背上加上同样的压力时，顶角越小，分开其他物体的力越大"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"15265","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"5","difficult_name":"困难","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"128","new_flag":false,"is_use":0,"question_source":false,"list":null,"_n":4},{"question_id":"15162203","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"","question_text":"有一列火车正在做匀加速直线运动。从某时刻开始计时，第1min内，发现火车前进了180m，第2min内，发现火车前进了360m。则火车的加速度为（ &nbsp;&nbsp;）","options":{"A":"0.01m/s<sup>2</sup>","B":"0.05 m/s<sup>2</sup>","C":"36 m/s<sup>2</sup>","D":"180 m/s<sup>2</sup>"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"2","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":5},{"question_id":"15162205","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"","question_text":"如图所示，质量为m的质点和半径为R的半球体均静止，质点与半球体间的动摩擦因数为μ，质点与球心的连线与水平地面的夹角为θ，则下列说法正确的（ &nbsp;&nbsp;）  <p align=\"left\"> <img width=\"132\" height=\"80\" src=\"https://tikupic.21cnjy.com/5a/9e/5a9ef72c777322af69d97eb8c431c70c.png\" alt=\"图片_x0020_1631529284\"> </p>","options":{"A":"地面对半球体的摩擦力方向水平向左","B":"质点对半球体的压力大小为mgcosθ","C":"质点所受摩擦力大小为μmgcosθ","D":"质点所受摩擦力大小为mgcosθ"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"3","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":6},{"question_id":"15162207","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"","question_text":"从某一高度相隔1s先后自由释放两个相同的小球甲和乙，不计空气的阻力，它们在空中任一时刻（ &nbsp;&nbsp;）","options":{"A":"甲、乙两球距离始终保持不变，甲、乙两球速度之差保持不变","B":"甲、乙两球距离越来越大，甲、乙两球速度之差也越来越大","C":"甲、乙两球距离越来越大，甲、乙两球速度之差保持不变","D":"甲、乙两球距离越来越小，甲、乙两球速度之差也越来越小"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"2","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":7},{"question_id":"15162209","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"","question_text":"在校运会上，开展了多个项目的比赛，下列关于各比赛项目的说法中正确的是（ &nbsp;&nbsp;）","options":{"A":"100米比赛比的是最大速度","B":"立定跳远比赛比的是位移","C":"铅球比赛比的是位移大小","D":"200米比赛比的是平均速度大小."},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"3","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":8},{"question_id":"15162211","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"","question_text":"如图所示,小球A系在竖直拉紧的细绳下端,球恰好又与斜面接触并处于静止状态,则小球A所受的力是(&nbsp;&nbsp; &nbsp;&nbsp;)  <p align=\"left\"> <img width=\"104\" height=\"113\" src=\"https://tikupic.21cnjy.com/c5/9f/c59f65c8118048981834a6c6eb4daa05.png\" v:shapes=\"_x0000_i1028\"> </p>","options":{"A":"重力和绳对它的拉力","B":"重力、绳对它的拉力和斜面对它的弹力","C":"重力和斜面对球的支持力","D":"绳对它的拉力和斜面对它的支持力"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"4","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":9},{"question_id":"1018821","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"汽车以20m/s的速度做匀速直线运动，刹车后的加速度为5 m/s<sup>2</sup>，那么开始刹车后2秒与开始刹车后6秒汽车通过的位移之比为( )","question_text":"汽车以20m/s的速度做匀速直线运动，刹车后的加速度为5 m/s<sup>2</sup>  ， 那么开始刹车后2秒与开始刹车后6秒汽车通过的位移之比为(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)</p>","options":{"A":"1∶1","B":"3∶1","C":"3∶4","D":"4∶3"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"0","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"7","new_flag":false,"is_use":0,"question_source":null,"list":null,"_n":10},{"question_id":"9013546","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"如图所示，两块完全相同的积木A、B叠放在一起，质量均为m，交界面与水平面夹角为θ，B与水平地面的动摩擦因数为μ，对B物块作用大小为F的水...","question_text":"如图所示，两块完全相同的积木A、B叠放在一起，质量均为m，交界面与水平面夹角为θ，B与水平地面的动摩擦因数为μ，对B物块作用大小为F的水平外力后两积木仍然保持静止状态，则B物块所受的水平地面摩擦力大小一定为（&nbsp;&nbsp; ）<p><img data-cke-saved-src=\"http://tikupic.21cnjy.com/06/c6/06c6bbb837dcc1a77809307730c4f27d.png\" src=\"http://tikupic.21cnjy.com/06/c6/06c6bbb837dcc1a77809307730c4f27d.png\" v:shapes=\"图片_x0020_100006\" width=\"113\" height=\"136\"></p>","options":{"A":"F","B":"2μmg","C":"F-mgcosθ","D":"F-mgcos<sup>2</sup>θ"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"1354936","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"1","difficult_name":"容易","is_objective":"1","is_collect":false,"extra_file":null,"save_num":"25","new_flag":false,"is_use":0,"question_source":"浙江省嘉兴市2019届高三普通高校招生物理选考科目教学测试卷","list":null,"_n":11},{"question_id":"15162215","question_type":"1","question_channel_type":"1","channel_type_name":"单选题","title":"","question_text":"假设某次海试活动中，“蛟龙号”完成海底任务后竖直上浮，从上浮速度为v时开始计时，此后“蛟龙号”匀减速上浮，经过时间t上浮到海面，速度恰好减为零，则“蛟龙号”在 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3Et%3C%2Fmi%3E%3Cmn%3E0%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> （ <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3Et%3C%2Fmi%3E%3Cmn%3E0%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> &lt;t）时刻距离海平面的深度为（ &nbsp;&nbsp;）","options":{"A":"<img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmfrac%3E%3Cmrow%3E%3Cmi%3Ev%3C%2Fmi%3E%3Cmi%3Et%3C%2Fmi%3E%3C%2Fmrow%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmfrac%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\">","B":"<img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmfrac%3E%3Cmrow%3E%3Cmsup%3E%3Cmi%3Ev%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsup%3E%3C%2Fmrow%3E%3Cmrow%3E%3Cmn%3E2%3C%2Fmn%3E%3Cmi%3Et%3C%2Fmi%3E%3C%2Fmrow%3E%3C%2Fmfrac%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\">","C":"<img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3Et%3C%2Fmi%3E%3Cmn%3E0%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%3D%3C%2Fmo%3E%3Cmfrac%3E%3Cmi%3Ev%3C%2Fmi%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3Ea%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmfrac%3E%3Cmo%3E%3D%3C%2Fmo%3E%3Cmn%3E0.6%3C%2Fmn%3E%3Cmtext%3Es%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\">","D":"<img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmi%3Es%3C%2Fmi%3E%3Cmo%3E%3D%3C%2Fmo%3E%3Cmfrac%3E%3Cmrow%3E%3Cmsup%3E%3Cmi%3Ev%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsup%3E%3C%2Fmrow%3E%3Cmrow%3E%3Cmn%3E2%3C%2Fmn%3E%3Cmsub%3E%3Cmi%3Ea%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmfrac%3E%3Cmo%3E%3D%3C%2Fmo%3E%3Cmn%3E1.8%3C%2Fmn%3E%3Cmtext%3Em%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> ."},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"1","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":12}],"scores":{"1018821":{"score":"2","subScore":"2"},"1332322":{"score":2,"subScore":2},"8106115":{"score":"2","subScore":"2"},"9013546":{"score":2,"subScore":2},"15162195":{"score":"2","subScore":"2"},"15162197":{"score":"2","subScore":"2"},"15162199":{"score":"2","subScore":"2"},"15162203":{"score":"2","subScore":"2"},"15162205":{"score":"2","subScore":"2"},"15162207":{"score":"2","subScore":"2"},"15162209":{"score":"2","subScore":"2"},"15162211":{"score":"2","subScore":"2"},"15162215":{"score":"2","subScore":"2"}},"head_title":"单选题  "},{"questions":[{"question_id":"15162217","question_type":"2","question_channel_type":"2","channel_type_name":"多选题","title":"","question_text":"甲、乙两个物体在同一直线上运动，其x－t图象如图所示，其中直线b与曲线a相切于点(4，－15)．已知甲做匀变速直线运动，下列说法正确的是(&nbsp;&nbsp; )  <p align=\"left\"> <img width=\"111\" height=\"111\" src=\"https://tikupic.21cnjy.com/49/3c/493c18dd6e259afddd4f8cc06c9bc586.jpg\" alt=\"图片_x0020_781046251\"> </p>","options":{"A":"前4 s内两物体运动方向相同","B":"前4 s内甲的平均速度是乙的平均速度的 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmfrac%3E%3Cmrow%3E%3Cmn%3E15%3C%2Fmn%3E%3C%2Fmrow%3E%3Cmn%3E7%3C%2Fmn%3E%3C%2Fmfrac%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 倍","C":"t＝0时刻，甲的速度大小为9 m/s","D":"甲的加速度大小为2 m/s<sup>2</sup>"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"3","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":13},{"question_id":"15162219","question_type":"2","question_channel_type":"2","channel_type_name":"多选题","title":"","question_text":"有关瞬时速度、平均速度、平均速率,下列说法中正确的是(&nbsp;&nbsp; )","options":{"A":"瞬时速度是物体在某一位置或某一时刻的速度","B":"平均速度等于某段时间内物体运动的位移与所用时间的比值","C":"作变速运动的物体，平均速率就是平均速度的大小","D":"作单向直线运动的物体，平均速率等于平均速度的大小."},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"1","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":14},{"question_id":"15162221","question_type":"2","question_channel_type":"2","channel_type_name":"多选题","title":"","question_text":"甲、乙两汽车在同一条平直公路上同向运动,其速度υ−时间t图象分别如图中甲、乙两条曲线所示。已知两车在t<sub>2</sub>时刻并排行驶,下列说法正确的是(&nbsp;&nbsp; )  <p align=\"left\"> <img width=\"159\" height=\"126\" src=\"https://tikupic.21cnjy.com/7b/b4/7bb47ee7582d351a1076d1c4da4b684a.png\" alt=\"图片_x0020_100008\"> </p>","options":{"A":"两车在t<sub>1</sub>时刻也并排行驶","B":"t<sub>1</sub>时刻甲车在后，乙车在前","C":"t<sub>2</sub>时候乙车从后面追上甲车","D":"乙车的加速度大小先减小后增大."},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"5","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":15},{"question_id":"15162223","question_type":"2","question_channel_type":"2","channel_type_name":"多选题","title":"","question_text":"如图所示，用一段绳子把轻质滑轮吊装在A点，一根轻绳跨过滑轮，绳的一端拴在井中的水桶上，人用力拉绳的另一端，滑轮中心为O点，人所拉绳子与OA的夹角为β，拉水桶的绳子与OA的夹角为α。人拉绳沿水平面向左运动，把井中质量为m的水桶匀速提上来，人的质量为M，重力加速度为g，在此过程中，以下说法正确的是(&nbsp;&nbsp; )  <p align=\"left\"> <img width=\"175\" height=\"165\" src=\"https://tikupic.21cnjy.com/70/d7/70d7c3480dd3b688028db04522824020.jpg\" v:shapes=\"图片_x0020_100016\"> </p>","options":{"A":"α始终等于β","B":"吊装滑轮的绳子上的拉力逐渐变大","C":"地面对人的摩擦力逐渐变大","D":"地面对人的支持力逐渐变大"},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"5","difficult_name":"困难","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"21","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":16},{"question_id":"15162225","question_type":"2","question_channel_type":"2","channel_type_name":"多选题","title":"","question_text":"将力 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmi%3EF%3C%2Fmi%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 分解成 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 、 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 两个分力，如果已知 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 的大小和 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 与 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3Cmi%3EF%3C%2Fmi%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 之间的夹角 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmi%3E%CE%B1%3C%2Fmi%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> ，且 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmi%3E%CE%B1%3C%2Fmi%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 为锐角，则（ &nbsp;&nbsp;）","options":{"A":"当 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmsub%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3Cmo%3E%26gt%3B%3C%2Fmo%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmtext%3Esin%CE%B1%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 时，一定有两解","B":"当 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmo%3E%26gt%3B%3C%2Fmo%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3Cmo%3E%26gt%3B%3C%2Fmo%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmtext%3Esin%CE%B1%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 时，有两解","C":"当 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%26nbsp%3B%3C%2Fmo%3E%3Cmo%3E%3D%3C%2Fmo%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmtext%3Esin%CE%B1%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 时，才有唯一解","D":"当 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3Cmo%3E%26lt%3B%3C%2Fmo%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmtext%3Esin%CE%B1%3C%2Fmtext%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 时，无解."},"answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"3","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":null,"_n":17}],"scores":{"15162217":{"score":"3","subScore":"3"},"15162219":{"score":"3","subScore":"3"},"15162221":{"score":"3","subScore":"3"},"15162223":{"score":"3","subScore":"3"},"15162225":{"score":"3","subScore":"3"}},"head_title":"多选题  "},{"questions":[{"question_id":"15162227","question_type":"7","question_channel_type":"26","channel_type_name":"实验探究题","title":"","question_text":"在探究力的运算法则实验时，其步骤是：\n\n<p align=\"left\"> <img width=\"461\" height=\"169\" src=\"https://tikupic.21cnjy.com/23/8a/238aee01919616314f74127fc5352169.png\" alt=\"图片_x0020_100012\"> </p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"4","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":[{"question_id":"16999835","question_type":"4","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"将橡皮条一端固定，用两个测力计对另一端的结点施加互成角度的两个力F<sub>1</sub>和F<sub>2</sub>  ， 使橡皮条伸长后，结点处于某一位置，这时要记录结点O的位置和{#blank#}1{#/blank#}换成一个测力计对橡皮条施加一个力F<sub>3</sub>时，要将结点{#blank#}2{#/blank#}，其目的是{#blank#}3{#/blank#}。","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162227","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":0},{"question_id":"16999849","question_type":"4","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"在验证力的平行四边形定则的实验中，F<sub>1</sub>和F<sub>2</sub>表示两个互成角度的力， <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmi%3EF%3C%2Fmi%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 表示由平行四边形定则作出的F<sub>1</sub>和F<sub>2</sub>的合力， <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmo%3E%E2%80%B2%3C%2Fmo%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 表示用一个测力计拉橡皮筋时的力，则如图2中符合实验事实的是{#blank#}1{#/blank#}。","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162227","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":1}],"_n":18},{"question_id":"15162233","question_type":"7","question_channel_type":"26","channel_type_name":"实验探究题","title":"","question_text":"在研究匀变速直线运动实验中，某同学得到一条的纸带如图所示，并在其上取了A．B．C．D．E. F.&nbsp;G等7个计数点，每相邻两个计数点间还有4个点没有画出。\n\n<p align=\"left\"> <img width=\"376\" height=\"156\" src=\"https://tikupic.21cnjy.com/23/91/239161d612c70f085c34d6efc56a4452.png\" alt=\"图片_x0020_100013\"> </p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"8","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":[{"question_id":"16999839","question_type":"4","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"设打点计时器打点周期为T，打F点时速度为v<sub>F</sub>  ， 则计算v<sub>F</sub>的公式为v<sub>F</sub>={#blank#}1{#/blank#}（用T和图中已知物理量表示）","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162233","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":0},{"question_id":"16999859","question_type":"4","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"图中d<sub>1</sub>=2.00cm、d<sub>2</sub>=4.50cm、d<sub>3</sub>=7.60cm、d<sub>4</sub>=11.30cm、d<sub>5</sub>=15.50cm、d<sub>6</sub>=20.20cm，打点计时器打点周期为0.02s，则小车运动的加速度a={#blank#}1{#/blank#}m/s<sup>2</sup>.（结果保留2位有效数字）","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162233","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":1},{"question_id":"16999863","question_type":"4","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"如果当时电网中交变电流的频率是f=52Hz，而做实验的同学并不知道，由此引起的{#blank#}1{#/blank#}（选填“系统”或“偶然”）误差将使加速度的测量值比实际值偏{#blank#}2{#/blank#}（选填“大”或“小”）","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162233","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":2}],"_n":19}],"scores":{"15162227":{"score":"2","subScore":["1","1"]},"15162233":{"score":"3","subScore":["1","1","1"]}},"head_title":"实验题  "},{"questions":[{"question_id":"15162241","question_type":"7","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"已知火车出站后做匀加速直线运动，出站时的速度是36km/h，火车的加速度是1m/s<sup>2</sup>  ， 问：","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"3","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":[{"question_id":"16999837","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"火车出站20s后的位移大小是多少？","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162241","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":0},{"question_id":"16999847","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"这段时间内的平均速度是多少？","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162241","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":1},{"question_id":"16999871","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"20s&nbsp;末的速度是多大？","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162241","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":2}],"_n":20},{"question_id":"15162249","question_type":"7","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"质量为100N，长为L=2m的均匀木棒放在水平桌面上，如图甲所示，至少要用35N的水平推力，才能使它从原地开始运动。木棒从原地移动以后，用30N的水平推力，就可以使木棒继续做匀速运动。求：\n\n<p align=\"left\"> <img width=\"340\" height=\"143\" src=\"https://tikupic.21cnjy.com/e7/a3/e7a350bb17e443e746afa264b4bb7ddc.png\" alt=\"图片_x0020_100014\"> </p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2312739","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"3","difficult_name":"普通","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"4","new_flag":false,"is_use":0,"question_source":"浙江省杭州学军中学2019-2020学年高一上学期物理期中考试试卷","list":[{"question_id":"16999845","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"木棒与桌面间的最大静摩擦力大小 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3EF%3C%2Fmi%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3Ef%3C%2Fmi%3E%3Cmrow%3E%3Cmi%3Em%3C%2Fmi%3E%3Cmi%3Ea%3C%2Fmi%3E%3Cmi%3Ex%3C%2Fmi%3E%3C%2Fmrow%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\">","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162249","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":0},{"question_id":"16999853","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"木棒与桌面间的动摩擦因数 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3E%CE%BC%3C%2Fmi%3E%3Cmn%3E1%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\">","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162249","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":1},{"question_id":"16999873","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"若把木棒放到倾斜角为37°的固定斜面上，木棒恰好匀速下滑，如图乙，求斜面和木棒间的动摩擦因数 <img class=\"mathml\" src=\"https://math.21cnjy.com/MathMLToImage?mml=%3Cmath+display%3D%22block%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1998%2FMath%2FMathML%22%3E%3Cmrow%3E%3Cmsub%3E%3Cmi%3E%CE%BC%3C%2Fmi%3E%3Cmn%3E2%3C%2Fmn%3E%3C%2Fmsub%3E%3C%2Fmrow%3E%3C%2Fmath%3E&key=a4f67d604023dec24efa426c73d5245b\" style=\"vertical-align: middle;\"> 。（sin37°=0.6，cos37°=0.8）","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"15162249","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":2}],"_n":21},{"question_id":"13965123","question_type":"7","question_channel_type":"28","channel_type_name":"综合题","title":"","question_text":"如图，甲、乙两名运动员在训练2×100m接力赛跑。己知甲、乙两运动员的起跑过程可看成加速度大小为2m/s<sup>2</sup>的匀加速运动，且经加速后都能达到并保持v<sub>m</sub>=8m/的速度跑完全程。已知接力区的长度为L=18m，乙在接力区前端听到口令时起跑，在甲乙相遇时完成交接棒，假设接棒动作不影响运动员的速度大小。\n\n<p align=\"left\"> <img width=\"334\" height=\"148\" src=\"https://tikupic.21cnjy.com/fa/d5/fad5eeda5ef25f4ba81f6cfe3c57030c.png\" v:shapes=\"图片_x0020_272226802\"> </p>","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"0","paperid":"2073794","xd":"3","chid":"6","exam_type":"2","exam_name":"常考题","difficult_index":"2","difficult_name":"较易","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"1","new_flag":false,"is_use":0,"question_source":false,"list":[{"question_id":"16295607","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"在某次练习中，甲以v<sub>m</sub>=8m/s的速度跑到接力区前端s<sub>0</sub>=12m处时，向乙发出起跑口令，求此次练习中交接棒处离接力区前端的距离；","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"13965123","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":0},{"question_id":"16295615","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"为了取得最好成绩，需要乙恰好在速度达到与甲相同时被甲追上，则甲应在距离接力区前端多远时对乙发出起跑口令？他们跑完2×l00m全程的最好成绩（从甲起跑开始，至乙到达终点的总时间）是多少？","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"13965123","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":1},{"question_id":"16295623","question_type":"5","question_channel_type":"0","channel_type_name":"未知","title":"","question_text":"若接力区的长度只有L′=9m，则他们的最好成绩又是多少？甲应在距离接力区前端多远是对已发出起跑口令？","options":"","answer_json":null,"answer":null,"explanation":null,"knowledge":null,"t_knowledge":null,"category":null,"parent_id":"13965123","paperid":"0","xd":"3","chid":"6","exam_type":"0","exam_name":"未知","difficult_index":"0","difficult_name":"未知","is_objective":"0","is_collect":false,"extra_file":null,"save_num":"0","new_flag":false,"is_use":0,"question_source":null,"_n":2}],"_n":22}],"scores":{"13965123":{"score":2,"subScore":2},"15162241":{"score":"15","subScore":["5","5","5"]},"15162249":{"score":"15","subScore":["5","5","5"]}},"head_title":"解答题  "}]},
+            query: query,
+            flag: '0'
+        });
+    });
+    
+    </script>
+    
+
+
+</body>
+
+</html>
